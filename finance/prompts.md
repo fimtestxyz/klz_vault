@@ -17,4 +17,4 @@ $$
 |     |     |
 
 
-![[Pasted image 20251218165958.png]]
+![200](assets/prompts/file-20251218171304636.png)
