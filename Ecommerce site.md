@@ -1,5 +1,5 @@
-1. Google sso, account #business creattion , account proiflre management
-2. Blind box ( )
+1. Google sso, account #business creation , account proiflre management
+2. Selling Blind box 
 3. Sourcing the manufacturing supply Chain in china
 4. Identify trends using scraping to study through 二次元文化
 5. 
