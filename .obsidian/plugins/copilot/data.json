@@ -187,8 +187,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -258,6 +258,21 @@
       "capabilities": [
         "reasoning"
       ]
+    },
+    {
+      "name": "deepseek",
+      "provider": "lm-studio",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "http://localhost:1234/v1",
+      "apiKey": "",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "vision",
+        "reasoning"
+      ],
+      "stream": true,
+      "enableCors": true
     }
   ],
   "activeEmbeddingModels": [
