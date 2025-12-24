@@ -272,7 +272,8 @@
         "vision"
       ],
       "stream": true,
-      "enableCors": true
+      "enableCors": true,
+      "maxTokens": 7300
     }
   ],
   "activeEmbeddingModels": [
