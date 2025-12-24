@@ -293,6 +293,18 @@ GPT5  is  the  worst  model  ever.  GPT5
  them  both.  And  well,  quite  honestly, 
  they  gave  fairly  similar  responses. 
  That's  amazing.  Huge  milestone.  Get 
+
+Okay, here's a concise summary of the key points mentioned:
+
+1.  **Personality Shift:** Many users (e.g., Peter Level, Larry B) dislike the new GPT-5 personality. It's perceived as less human, more robotic ("overworked secretary"), giving shorter replies, being less accurate and detailed than GPT-40. The core personality of the old model (like GPT-4o) is preferred by many.
+
+2.  **Forced Migration/Deletion:** There's significant frustration that OpenAI deleted older models like GPT-40, GPT-4o Pro/Plus versions ("Chubby" meme) overnight. This forced users off models they preferred or were comfortable with.
+
+3.  **GPT-5 Performance:** GPT-5 is criticized for being worse than expected, especially mathematically (compared to GPT-4o) and less capable overall ("horrible", "biggest piece of garbage").
+
+4.  **AI-as-a-Service vs Cost-Cutting:** Some users believe the changes are driven by OpenAI wanting to cut costs. They point out that GPT-5 often routes prompts automatically, potentially choosing cheaper or less capable models ("GPT5 mini", "GPT5 low") which sometimes produce worse results than the older, potentially better models they were using before. Ethan Mollick suggests GPT-5 sometimes defaults to "the worst" available models.
+
+**Overall Sentiment:** The text conveys strong user dissatisfaction, feeling that OpenAI has performed a drastic downgrade or forced migration away from preferred models without adequate justification or user input, resulting in a worse AI experience.
  ready  for  a  whole  new  era  of  chasing, 
  baby  proofing,  etc.  Let's  go.  That's  a 
  massive  milestone.  Congrats,  Matt. 
