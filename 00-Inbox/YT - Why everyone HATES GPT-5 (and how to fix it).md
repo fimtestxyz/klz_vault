@@ -1,15 +1,14 @@
 
 https://www.youtube.com/watch?v=hohBB5VM37E
-
-Chat,  GPT5  is  the  worst  model  ever.  GPT5 
+GPT5  is  the  worst  model  ever.  GPT5 
  is  horrible.  OpenAI  just  pulled  the 
  biggest  bait  and  switch  in  AI  history, 
  and  I'm  done.  I  wonder  if  OpenAI  is 
  trying  to  speedrun  losing  users  this 
  week.  GPT5  is  the  biggest  piece  of 
  garbage. 
- >> I  hate  chat  GPT5. 
- >> Okay,  so  I  know  this  is  my  fifth  time 
+ I  hate  chat  GPT5. 
+ Okay,  so  I  know  this  is  my  fifth  time 
  talking  about  GPT5  in  a  week,  and  I  know 
  there  are  half  a  dozen  YouTubers  who 
  have  already  made  this  kind  of  video, 
@@ -301,7 +300,12 @@ Chat,  GPT5  is  the  worst  model  ever.  GPT5
  full  strut,  lock  it  in  your  brain 
  forever.  Parenting  moments.  Big  hugs  to 
  the  little  legend.  Also,  footage  or  it 
- didn't  happen.  So  GPT5  was  slightly 
+ didn't  happen.  
+ 
+ 
+ 
+ 
+ So  GPT5  was  slightly 
  shorter  here.  GPT40  definitely  had 
  slightly  more  personality  to  it,  but  not 
  like  a  huge  difference  in  my  opinion.  I 
@@ -1046,3 +1050,4 @@ Chat,  GPT5  is  the  worst  model  ever.  GPT5
  news.  And  there's  an  awesome  free 
  newsletter.  Thanks  again.  Really 
  appreciate  you.  See  you  in  the  next  one.
+

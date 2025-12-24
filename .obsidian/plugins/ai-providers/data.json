@@ -9,7 +9,7 @@
       "apiKey": "",
       "url": "http://localhost:1234/v1",
       "type": "lmstudio",
-      "model": "qwen/qwen2.5-vl-7b",
+      "model": "deepseek/deepseek-r1-0528-qwen3-8b",
       "availableModels": [
         "qwen/qwen2.5-vl-7b",
         "text-embedding-nomic-embed-text-v1.5",
