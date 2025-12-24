@@ -21,7 +21,7 @@
   "amazonBedrockRegion": "",
   "siliconflowApiKey": "",
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "deepseek|lm-studio",
+  "defaultModelKey": "qwen/qwen2.5-vl-7b|lm-studio",
   "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "name": "deepseek",
+      "name": "qwen/qwen2.5-vl-7b",
       "provider": "lm-studio",
       "enabled": true,
       "isBuiltIn": false,
@@ -273,7 +273,7 @@
       ],
       "stream": true,
       "enableCors": true,
-      "maxTokens": 7300
+      "maxTokens": 65000
     }
   ],
   "activeEmbeddingModels": [
