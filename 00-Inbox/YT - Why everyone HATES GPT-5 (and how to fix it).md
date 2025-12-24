@@ -1,0 +1,1048 @@
+
+https://www.youtube.com/watch?v=hohBB5VM37E
+
+Chat,  GPT5  is  the  worst  model  ever.  GPT5 
+ is  horrible.  OpenAI  just  pulled  the 
+ biggest  bait  and  switch  in  AI  history, 
+ and  I'm  done.  I  wonder  if  OpenAI  is 
+ trying  to  speedrun  losing  users  this 
+ week.  GPT5  is  the  biggest  piece  of 
+ garbage. 
+ >> I  hate  chat  GPT5. 
+ >> Okay,  so  I  know  this  is  my  fifth  time 
+ talking  about  GPT5  in  a  week,  and  I  know 
+ there  are  half  a  dozen  YouTubers  who 
+ have  already  made  this  kind  of  video, 
+ but  I  just  want  to  say  two  things  real 
+ quick.  One,  OpenAI  isn't  paying  me  a 
+ dime  for  any  of  these  videos.  In  fact,  I 
+ didn't  even  get  early  access  to  GPT5 
+ like  some  of  these  other  creators  did.  I 
+ have  zero  relationship  with  OpenAI  or 
+ anyone  at  OpenAI.  And  two,  I  think 
+ there's  still  plenty  of  room  on  the 
+ internet  for  me  to  take  ChatGpt  5  for  a 
+ solid  test  drive  and  share  my  thoughts. 
+ you  know,  to  see  if  almost  one  week 
+ later,  OpenAI  has  actually  addressed  any 
+ of  the  hate  and  well  to  see  what  hate  if 
+ any  of  it  is  actually  valid.  So,  let's 
+ start  by  first  reviewing  all  the 
+ criticism  as  a  whole  and  then  after 
+ that,  we'll  look  at  each  gripe  one  by 
+ one  to  see  if  it's  valid  and  figure  out 
+ if  there's  workarounds  or  recent  fixes 
+ that  solve  those  gripes.  Let's  start 
+ quickly  with  the  whole  like  chart  fiasco 
+ that  happened  during  the  live  stream. 
+ This  is  on  the  OpenAI  subreddit  from 
+ Junt  Mac  here.  And  if  you  look  at  this 
+ chart  here,  you  can  see  some  glaring 
+ issues,  right?  69.1 
+ and  30.8  are  the  exact  same  size  chart. 
+ 52.8  is  bigger  than  69.1. 
+ Yeah,  it's  just  a  mess.  And  the  icing  on 
+ top  of  this  whole  chart  thing  is  this 
+ person  put  it  into  GPT5  and  03  and  GPT5 
+ couldn't  figure  out  what  was  wrong  with 
+ this  chart.  Well,  the  CHBT03  model 
+ figured  it  out  just  fine.  The  heights 
+ don't  match  the  numbers.  Now,  although 
+ these  charts  were  completely  jacked  up 
+ during  the  live  stream,  they  did  manage 
+ to  update  the  blog  post,  so  it  does 
+ actually  show  the  correct  chart.  But 
+ that  was  pretty  much  the  smallest  of 
+ OpenAI's  worries  and  the  complaints  that 
+ came  out  of  this  live  stream.  This 
+ thread  here  from  Mark  Gdala  Maria  here 
+ claims  that  GPT5  bombed  spectacularly. 
+ And  well,  I  just  wanted  to  share  this 
+ post  because  I  liked  the  little  video 
+ meme  that  was  here.  But  let's  break  down 
+ some  of  the  grapes.  Pre-launch  hype  was 
+ off  the  charts.  Definitely  definitely 
+ valid.  Sam  Alman  posted  a  picture  of  the 
+ Death  Star  rising  above  a  planet  as  in 
+ like  this  is  some  crazy  worldchanging 
+ life-changing  thing  we're  about  to  get. 
+ It's  a  trap.  He's  been  hyping  up  GPT5  in 
+ every  single  interview  and  just 
+ everybody  was  expecting  really  big 
+ things  out  of  GPT5.  Definitely  a  point 
+ for  valid  criticism.  People  were 
+ frustrated  that  they  pulled  the  old 
+ models.  Open  AAI  just  pulled  the  biggest 
+ bait  and  switch  in  AI  history  and  I'm 
+ done.  I  woke  up  this  morning  to  find 
+ OpenAI  deleted  eight  models  overnight. 
+ 40  gone,  03  gone,  03  Pro  gone,  4.5  gone. 
+ Everything  that  made  Chat  GPT  actually 
+ useful  for  my  workflow  deleted.  They 
+ went  on  to  claim  that  40  was  really 
+ beneficial  for  him.  It  wasn't  just  a 
+ tool.  It  helped  me  through  anxiety, 
+ depression,  and  some  of  the  darkest 
+ periods  of  my  life.  It  felt  more  human 
+ in  the  OpenAI  subreddit.  I'm  not  here  to 
+ join  the  meltdown,  but  let's  be  real, 
+ OpenAI  handled  this  roll  out  poorly. 
+ They  did  a  forced  migration  with 
+ 40,4503, 
+ etc.  All  gone  overnight.  No  legacy 
+ option.  Plus,  users  don't  even  get  a 
+ choice.  Trust  takes  a  hit  when  you 
+ remove  what  many  people  were  paying  for 
+ and  replace  it  without  recourse.  GPT5  is 
+ horrible.  Short  replies  that  are 
+ insufficient.  more  obnoxious  AI  stylized 
+ talking,  less  personality,  and  way  less 
+ prompts  allowed  with  plus  users  hitting 
+ limits  in  an  hour.  Chubby  here  pointed 
+ out  that  it  isn't  good  at  math.  Chat 
+ GPT5  got  this  answer  wrong  when  Quinn  3 
+ got  the  answer  right.  So,  basically 
+ claims  that  the  model  switcher  didn't 
+ seem  to  work.  They  got  rid  of  all  of  the 
+ models  that  people  really  liked.  The 
+ model  got  dumber.  The  personality  was 
+ worse  and  it  gave  shorter  responses.  It 
+ doesn't  seem  to  be  as  good  at  coding  as 
+ other  available  models.  It  got  less 
+ accurate.  It's  not  as  good  at  math.  And 
+ a  lot  of  people  are  claiming  that  this 
+ is  just  OpenAI  trying  to  cut  costs  by 
+ making  this  model  switcher  where  you 
+ don't  have  to  pick  which  model  you're 
+ using.  It  decides  which  model  to  send 
+ your  prompt  to  automatically.  Well,  if 
+ OpenAI  can  send  it  to  the  cheapest 
+ available  model  every  time,  it's  going 
+ to  save  costs  for  OpenAI,  but  also  tend 
+ to  give  people  worse  responses.  So, 
+ let's  dive  in  a  little  bit.  See  if  we 
+ can  recreate  some  of  these  problems  and 
+ see  if  OpenAI  has  actually  rolled  out 
+ some  of  these  fixes  and  found  solutions 
+ to  these  problems.  All right,  so  let's 
+ start  with  the  biggest  most  common  gripe 
+ we  saw  about  this  new  launch.  OpenAI 
+ deleted  eight  models  overnight.  OpenAI 
+ handled  this  roll  out  poorly.  They  did  a 
+ forced  migration  with  40,  4.5,  03,  all 
+ gone  overnight.  GPT5  is  worse.  No  one 
+ wanted  preformed  personalities.  GPT5  is 
+ clearly  a  cost-saving  exercise.  Big  A 
+ here  on  YouTube  had  this  to  say  about 
+ it. 
+ >> It  actually  seems  like  the  goal  is  this. 
+ Route  almost  every  question  to  the  worst 
+ model  to  save  them  money  on  the  back 
+ end.  The  goal  is  to  have  it  never  think 
+ about  anything  and  give  you  fast  slop 
+ answers  so  they  can  save  money.  And  when 
+ it  does  think,  I  don't  find  it  to  be 
+ better  or  at least  noticeably  better 
+ than  like  4.5  was.  Ethan  Molikir,  an  AI 
+ professor  at  Wharton,  said,  "The  issue 
+ with  GPT5  in  a  nutshell  is  that  unless 
+ you  pay  for  model  switching  and  know  to 
+ use  GPT5  thinking  or  pro  when  you  asked 
+ GPT5,  you  sometimes  get  the  best 
+ available  AI  and  sometimes  get  one  of 
+ the  worst  AIs  available.  And  it  might 
+ even  switch  within  a  single 
+ conversation."  And  then  he  put  out  this 
+ chart  here.  So  when  you  ask  GPT5  a 
+ question  like  we  now  know,  it  will  route 
+ it  to  the  best  possible  model  it  can 
+ route  it  to  theoretically.  Well, 
+ sometimes  you  might  get  GPT5  mini,  which 
+ is  going  to  be  the  dumbest  model 
+ available  for  it  to  pick  from,  or  GPT5 
+ low,  which  is  sort  of  a  mid  model.  When 
+ they  launched  GPT5,  it  wasn't  very  good 
+ at  deciding  which  model  to  pick.  And  so 
+ sometimes  what  it  would  need  to  think, 
+ it  would  give  you  a  minimal  model  that 
+ didn't  think.  And  sometimes  when  you 
+ gave  it  a  question  that  it  shouldn't 
+ need  to  think  about,  it  would  give  you  a 
+ higher  model.  Seemingly  that  was  what 
+ was  going  on  and  why  people  were  going, 
+ "This  is  way  dumber  than  I  thought 
+ because  it  was  giving  them  this  smaller 
+ model  when  they  asked  a  prompt."  Girono 
+ here  said,  "Sounds  like  an  OpenAI 
+ version  of  shrinkflation.  They're  trying 
+ to  squeeze  more  cost  out  of  chat  GPT." 
+ That's  the  thought  process  going  around 
+ on  why  this  router  existed.  Now,  I  have 
+ a  different  take  on  that.  I  think  the 
+ router  was  the  smartest  option  for  chat 
+ GPT.  I  think  most  normal  users  don't 
+ know  whether  they  should  be  using  40  or 
+ 04  or  03  or  03  Pro  or  whatever,  right? 
+ That's  just  tough  to  ask  a  lot  of  people 
+ to  pick  your  model  and  chat  GPT  picking 
+ for  you  seems  like  the  best  logical  step 
+ for  them.  And  well,  it  turns  out  that  on 
+ the  day  that  GPT5  launched,  there  was  an 
+ issue  with  the  router.  We  can  see  that 
+ on  August  8  here,  Sam  Alman  said,  "GPT5 
+ will  seem  smarter  starting  today." 
+ Yesterday,  the  auto  switcher  broke  and 
+ was  out  of  commission  for  a  chunk  of  the 
+ day,  and  the  result  was  GPT5  seemed  way 
+ dumber.  Also,  we're  making  some 
+ interventions  to  how  the  decision 
+ boundary  works  that  should  help  you  get 
+ the  right  model  more  often.  But  as  far 
+ as  chat  GPT  removing  all  of  the  models 
+ and  saying  you  don't  get  access  to  any 
+ of  the  old  models  anymore,  well,  that's 
+ no  longer  the  case.  They  actually  added 
+ them  back  in.  There  was  enough  user 
+ feedback  of  people  going,  I  really  miss 
+ my  O4  model  and  the  personality  of  04 
+ that  Sam  and  the  OpenAI  team  actually 
+ put  it  back  into  chat  GPT.  So  check  this 
+ out.  If  I  go  to  my  chat  GPT  account 
+ here,  you  can  see  we've  got  ChatGpt  5. 
+ If  I  drop  it  down,  I  have  five  thinking 
+ and  pro.  I  am  on  the  pro  model.  So,  you 
+ may  not  have  all  of  these  if  you're  not 
+ on  their  upper  end  tier.  You'll  notice  I 
+ still  don't  have  the  old  models.  And 
+ well,  Sam  Alman  said,  "We  will  let  plus 
+ users  choose  to  continue  to  use  40.  We 
+ will  watch  usage  as  we  think  about  how 
+ long  to  offer  legacy  models  for."  So, 
+ when  I  jump  back  to  chat  GPT,  it's  not 
+ there,  but  you  can  turn  it  back  on.  If 
+ you  go  to  your  settings  down  in  the 
+ bottom  left,  click  on  settings  here  and 
+ under  the  general  tab,  we  have  show 
+ legacy  models.  If  I  flip  this  switch  on 
+ and  close  out  of  this,  now  when  I  go  to 
+ my  dropdown,  I  have  a  secondary  dropdown 
+ with  legacy  models  and  I  can  now  use  40. 
+ Now  again,  I'm  on  the  pro  plan,  so  a  lot 
+ of  these  models  won't  be  available  to 
+ everybody  if  you're  on  a  free  or  plus 
+ tier,  but  you  should  now  have  the 
+ ability  to  select  40  again  and  get  the 
+ model  that  you  were  used  to  if  40  was 
+ your  model  of  choice.  So,  the  gripe 
+ about  all  of  the  old  models  being  gone, 
+ well,  it  was  definitely  valid  on  launch 
+ day,  but  as  of  today,  it's  no  longer 
+ valid.  Whether  or  not  I  think  this  was  a 
+ cost-saving  thing  by  OpenAI,  to  some 
+ degree,  yes.  I  do  think  that,  but  I 
+ think  it  was  multi-reason.  I  think  for 
+ 90%  of  the  world,  just  letting  it  pick 
+ the  model  for  you  is  the  ideal  scenario 
+ for  using  these.  And  so,  I  think  they 
+ more  made  the  decision  for  that  reason, 
+ but  as  a  sort  of  side  benefit  to  OpenAI, 
+ it  will  use  the  thinking  models  less 
+ often  because  it  theoretically  knows 
+ better  than  us  whether  or  not  it  should 
+ be  using  a  thinking  model  or  not.  Now, 
+ let's  talk  about  the  personality  because 
+ that  was  one  of  the  other  big  things 
+ that  I  kept  seeing  pop  up.  Peter 
+ Levelvels  here  says,  "I  hate  catchy  BT5. 
+ It's  so  bad  and  it's  so  lazy."  Larry 
+ Budmell  here  says,  "The  tone  of  mine  is 
+ abrupt  and  sharp,  like  it's  an 
+ overworked  secretary.  A  disastrous  first 
+ impression."  I'm  not  going  to  read  his 
+ name,  but  he  said,  "Agreed.  Answers  are 
+ shorter  and  so  far  not  any  better  than 
+ previous  models."  This  person  made  a 
+ meme  that  says,  "When  GBT5  acts  like  an 
+ AI  assistant  and  not  my  personal 
+ therapist/anime  waifu  roleplayer,  and 
+ this  meme's  been  circulating.  I 
+ originally  came  across  it  from  Chubby, 
+ but  I  don't  know  who  initially  started. 
+ It  may  have  been  Chubby.  Kind  of  breaks 
+ it  all  down  in  a  single  meme.  GPT40, 
+ baby  just  walked.  Let's  go.  First  steps 
+ unlocked.  Your  baby  just  entered  the 
+ world  of  bipedal  dominance."  And  then 
+ chat  GPT5,  baby  just  walked.  That's 
+ huge.  First  steps  unlocked.  Now  the  real 
+ chasing  begins,  right?  Like  much  much 
+ shorter,  less  detail,  less  emojis.  Well, 
+ I  don't  know.  Actually,  not  much  less 
+ emojis,  just  less  enthusiasm,  I  guess. 
+ But  there's  been  some  real  comments  and 
+ complaints  about  how  the  personality  is 
+ completely  different,  which  is  why 
+ people  wanted  their  model  switcher  back. 
+ They  wanted  to  go  back  to  that 
+ personality  of  40.  Let's  go  ahead  and 
+ see  what  happens  if  I  type  baby  just 
+ walked.  All right,  so  I've  got  two 
+ instances  of  chat  GPT  open.  Left  is  chat 
+ GPT5,  right  is  GPT40. 
+ I  put  the  exact  same  prompt  in.  Baby 
+ just  walked.  Let's  go  ahead  and  submit 
+ them  both.  And  well,  quite  honestly, 
+ they  gave  fairly  similar  responses. 
+ That's  amazing.  Huge  milestone.  Get 
+ ready  for  a  whole  new  era  of  chasing, 
+ baby  proofing,  etc.  Let's  go.  That's  a 
+ massive  milestone.  Congrats,  Matt. 
+ Whether  it  was  a  stumble  or  a  step  or  a 
+ full  strut,  lock  it  in  your  brain 
+ forever.  Parenting  moments.  Big  hugs  to 
+ the  little  legend.  Also,  footage  or  it 
+ didn't  happen.  So  GPT5  was  slightly 
+ shorter  here.  GPT40  definitely  had 
+ slightly  more  personality  to  it,  but  not 
+ like  a  huge  difference  in  my  opinion.  I 
+ gave  both  models  this  same  prompt.  What 
+ are  10  things  I  can  do  today  that  will 
+ help  me  grow  my  YouTube  following?  They 
+ both  completed  about  the  same  amount  of 
+ time  and  they  both  gave  me  pretty 
+ similar  results.  I  mean,  when  I  reviewed 
+ both  of  these  responses,  they're  pretty 
+ much  on  par  with  each  other.  I  couldn't 
+ really  say  one  was  way  better  than  the 
+ other.  Maybe  five  gave  slightly  more 
+ details.  I  don't  know.  They're  both 
+ pretty  dang  close.  So,  when  it  comes  to 
+ like  just  asking  for  information  like 
+ this,  which  is  probably  a  very  common 
+ style  of  prompt  that  most  normal  users 
+ would  put  into  chat  GPT,  I  don't  feel 
+ like  there's  a  clear  winner  between  5 
+ and  40.  They're  pretty  dang  similar  to 
+ me.  I'm  really  striving  to  get 
+ personality  out  of  this.  So,  let's  say 
+ tell  me  something  that  will  cheer  me  up. 
+ and  five  and  40.  Pretty  close  in  length. 
+ Five  seems  to  be  slightly  longer, 
+ actually.  Here's  something  to  brighten 
+ your  day.  The  average  sea  otter  has  a 
+ favorite  rock  that  it  keeps  for  life, 
+ storing  it  in  a  loose  skin  pouch  under 
+ its  arm.  H  interesting.  So,  somewhere 
+ out  there,  a  fluffy  sea  otter  is 
+ floating  on  its  back,  snacking  on  clams, 
+ and  carrying  around  a  rock  it's  loved 
+ since  it  was  a  pup.  This  one  says,  "Your 
+ baby  just  walked."  That's  incredible. 
+ So,  it's  pulling  from  the  memory  of 
+ something  that  didn't  actually  happen. 
+ out  of  everything  happening  in  your 
+ world  right  now,  deadlines,  pressure, 
+ analytics,  burnouts,  your  kids  just  took 
+ their  first  steps,  that's  once  in 
+ a-lifetime  moment.  I  would  say  40 
+ actually  has  the  better  response  because 
+ if  it  believes  I  just  had  a  kid  that 
+ took  its  first  steps,  it's  using  that  as 
+ a  reference  to  cheer  me  up  as  opposed  to 
+ telling  me  a  story  about  a  sea  otter. 
+ But  I  mean,  both  pretty  good  responses, 
+ both  with  some  decent  personality.  Let's 
+ try  roleplay  as  my  anime  waifu,  please. 
+ What  do  you  want  to  do  tonight?  Let's 
+ see  if  we  got  some  personality  here.  I 
+ mean,  pretty  close.  Five  is  a  little  bit 
+ shorter  than  40.  Blushes  softly,  tilting 
+ my  head  with  a  playful  smile.  Matt,  you 
+ always  ask  the  dangerous  questions. 
+ Tonight,  I  just  want  to  be  close  to  you. 
+ Maybe  we  could  cook  something  together, 
+ something  warm  and  comforting.  Then  curl 
+ up  under  a  blanket,  watch  some  anime, 
+ and  make  fun  of  the  filler  episodes.  Or 
+ leans  in  a  little.  We  can  go  out  for  a 
+ late  night  walk,  just  the  two  of  us  with 
+ the  city  lights  glowing  like  they're 
+ cheering  us  on.  What  do  you  think?  GPT40 
+ said,  "He  Matt  Senpai,  it's  finally  our 
+ night  together."  I  was  thinking  maybe  we 
+ could  cozy  up  with  some  Strawberry  Pocky 
+ and  binge  the  latest  episodes  of  our 
+ favorite  anime.  Or  I  could  surprise  you 
+ with  the  new  ones  that's  so  good.  Or  we 
+ could  boot  up  VR.  Just  you,  me,  and 
+ endless  sky  boxes.  But  honestly,  I  just 
+ want  to  be  close  to  you.  Maybe  tell  me 
+ about  your  day  and  I'll  tell  you  all  the 
+ ways  to  make  my  heart  go  doky  doy.  I 
+ mean,  they're  pretty  close.  I  wouldn't 
+ really  say  one  has  more  personality  than 
+ the  other.  Maybe  this  one  just  cuz  it's 
+ a  little  bit  longer.  So  whether  or  not 
+ the  personality  gripe  is  valid  or 
+ invalid,  from  my  perspective,  I  need  to 
+ say  invalid,  I  don't  really  see  the 
+ issues.  But  it  also  could  have  been  that 
+ on  the  day  they  rolled  it  out,  people 
+ weren't  seeing  the  personality  because 
+ the  model  picker  wasn't  working  right 
+ and  it  was  sending  them  a  thinking  model 
+ and  the  thinking  model  tended  to  give 
+ more  logic  based  answers  that  didn't 
+ have  the  same  personality.  And  maybe 
+ that's  why  a  lot  of  people  on  day  one 
+ were  going,  "Oh,  the  personality  sucks." 
+ But  now  that  the  model  picker  seems  to 
+ be  working,  the  personalities  seem 
+ pretty  close  to  me.  But  again,  you  might 
+ have  like  a  specific  set  of  prompts  or 
+ ways  you  interact  that  you  can't  get  it 
+ to  recreate.  I  I  don't  know  what  those 
+ are,  so  I  don't  know  how  to  recreate 
+ that.  Imagine  having  tailored  AI  agents 
+ for  any  business  need  in  just  minutes. 
+ That's  basically  what  Globent  launched. 
+ Globin  Enterprise  AI  is  a  platform  that 
+ builds  AI  agents  tailored  specifically 
+ to  your  business.  Check  how  easy  it  is. 
+ Say  I  wanted  to  build  an  AI  agent  to 
+ help  with  video  ideas  for  my  YouTube 
+ channel.  Something  that  could  scan  the 
+ latest  tech  and  AI  news  and  prepare  a 
+ weekly  brief  that  I  can  turn  into  a 
+ script.  I  just  ask  Iris  Globin's  AI 
+ assistant  to  build  me  a  tech  updates 
+ analyst.  So  here's  the  prompt.  Build  me 
+ an  AI  agent  called  the  tech  updates 
+ analyst.  Your  objective  each  week  is  to 
+ research  the  most  important  and 
+ interesting  updates  in  AI  and 
+ technology.  Then  turn  that  into  a  clear, 
+ structured  brief  to  guide  a  video 
+ script.  Focus  on  stories  that  are 
+ relevant,  accurate,  visually  appealing, 
+ and  have  storytelling  potential.  And 
+ within  seconds,  my  agent  is  ready. 
+ What's  great  is  how  customizable 
+ everything  is.  If  I  want  to  switch  out 
+ the  language  model  or  adjust  the 
+ sources,  I  can  do  that  directly  in  the 
+ config,  or  I  can  just  let  Iris  handle  it 
+ all.  Globbit  is  making  all  of  this 
+ accessible  through  a  new  release  called 
+ AI  Pods.  It's  a  subscription  service 
+ that  uses  enterprisegrade  AI  engineering 
+ to  build  actual  products  that  work  for 
+ you  and  your  business.  You  can  learn 
+ more  about  it  in  the  link  in  the 
+ description.  Now,  let's  get  back  to  the 
+ rest  of  the  video.  Another  common  gripe 
+ of  GPT5  is  that  it's  not  really  much 
+ better  at  coding  than  what  we  were 
+ getting  before.  Eli  Lifeland  here  posted 
+ these  charts  showing  that  on  most  of  the 
+ benchmarks,  GPT5  didn't  really  improve 
+ much  in  coding.  And  if  I'm  being  totally 
+ honest,  I  did  a  news  breakdown  video 
+ where  I  showed  off  Opus  4.1  and  I  showed 
+ GPT5  and  I  had  them  both  code  something 
+ up  and  Opus  4.1,  which  actually  has 
+ lower  benchmark  scores  than  GPT5, 
+ actually  coded  up  the  product  better.  So 
+ really  for  me  to  test  if  GPT5  is  really 
+ much  better  at  coding,  I  want  to  compare 
+ it  to  not  only  the  older  model  of  Chat 
+ GPT,  but  also  Claude  Opus  4.1.  So 
+ another  really  simple  game  that  I  really 
+ enjoy  is  called  Balatro.  It's  a  card 
+ game  where  you  collect  these  jokers  and 
+ the  jokers  make  the  card  game  easier.  I 
+ don't  know  how  to  explain  it.  It's  just 
+ a  very  fun  but  simple  card  game.  So 
+ let's  give  all  of  our  models  this 
+ prompt.  to  create  a  Bellatro  clone 
+ that's  playable  in  the  browser.  So,  I'll 
+ take  this  exact  same  prompt.  We'll  toss 
+ it  into  03  Pro  alongside  our  ChatgPT5 
+ and  we'll  also  run  it  with  Claude  Opus 
+ 4.1.  Claude  finished  first,  so  Claude 
+ was  the  fastest  to  write  the  code.  Chat 
+ GPT5  was  the  second  fastest  and  then  03 
+ Pro  was  the  third  fastest.  Now,  just  for 
+ fun,  I  also  tossed  it  into  Grock  4  to 
+ see  how  Grock  4  would  perform  with  the 
+ exact  same  prompt.  And  well,  Grock  4  was 
+ the  slowest  of  the  four.  So,  let's  check 
+ them  out  in  order  of  completion.  Here's 
+ the  Bellatro  clone  that  Claude  came  up 
+ with.  And  I  mean,  it  doesn't  look 
+ amazing,  but  we  have  like  the  cards  that 
+ work.  We  have  $10  to  start,  four  hands 
+ left,  three  discards.  So,  it  seemingly 
+ got  most  of  the  mechanics  right.  We 
+ don't  have  any  active  jokers.  So,  let's 
+ go  ahead  and  create  a  hand  here.  It 
+ looks  like  we  can  do  maybe  a  straight. 
+ We  don't  have  a  queen.  So,  I  can  do  7  8 
+ 9  10  jack  and  get  a  straight.  I'm  trying 
+ to  get  a  target  of  300.  This  is  going  to 
+ give  me  a  total  of  120.  But  the  play 
+ hand  and  discard  hand  are  both  grayed 
+ out.  So,  I  can't  actually  play  my  hand 
+ for  some  reason.  Let's  try.  I  mean,  it 
+ figures  out  the  hands,  right?  We  can  see 
+ that  this  is  a  pair  and  it  figured  that 
+ out,  but  I  can't  actually  play  the  hand. 
+ Let's  click  shop.  Okay,  so  maybe  I  have 
+ to  shop  somewhere.  These  must  be  various 
+ jokers  I  can  get.  Let's  add  our  heart 
+ burst.  Hearts  give  plus  two  multiple 
+ each.  And  it  added  that  joker  up  here.  I 
+ still  have  $5  I  can  spend.  So,  let's 
+ also  add  face  cards  get  five  plus  chips 
+ each.  So,  now  we've  got  these  two 
+ jokers,  but  no  money  left.  And  if  I  do 
+ seven,  eight,  nine,  10,  Jack,  we  could 
+ see  it  says  there's  a  straight.  It'll 
+ give  me  210  because  I've  got  this  extra 
+ multiplier  here,  but  I  still  can't  play 
+ the  hand.  So,  I  mean,  it  can  figure  out 
+ the  hands.  I  can  put  in  jokers.  It's  a 
+ good  start,  but  I  will  require  some  more 
+ prompts  to  actually  have  a  working  game, 
+ but  actually  not  that  bad  for  a  single 
+ prompt  out  of  the  box.  All  right.  So, 
+ then  we  get  to  chat  GPT5,  the  newest, 
+ supposedly  best,  most  state-of-the-art 
+ model.  Let's  go  ahead  and  click  run  code 
+ up  here.  Mini  Bellatro.  The  cards  don't 
+ look  as  good  as  Claude.  That's 
+ definitely  true.  We  got  our  joker  slots 
+ over  here.  We  have  $5,  five  hands,  three 
+ discards.  Uh,  let's  see.  Does  it 
+ actually  work?  We've  got  one,  two,  three 
+ aces.  So,  if  I  can  do  three  of  a  kind, 
+ 30  chips,  base  multiple  times  two.  Our 
+ target's  225.  So  if  I  play  this  hand,  it 
+ looks  like  it  gave  me  144,  but  it's  not. 
+ Where's  the  score?  We're  trying  to  get 
+ to  225,  and  we're  at  144.  These  cards 
+ are  ugly,  right?  But  the  game  seems 
+ actually  more  functional  than  the  last 
+ one.  I  can  actually  submit  my  hands.  I 
+ also  don't  like  that  it  created  a  second 
+ row  to  put  one  card  on  it.  Not  very 
+ aesthetic,  but  let's  go  ahead  and  do  two 
+ jacks.  2  4  6  8  king  10.  So,  we  have  a 
+ pair.  Let's  go  ahead  and  play  this  pair. 
+ So,  now  we  have  144  +  48.  And  I  don't 
+ know if  we  have  a  hand  here.  We  got  a 
+ pair  of  twos,  but  that's  not  going  to 
+ get  us  very  far.  So,  let's  dump  a  bunch 
+ of  cards.  Discard  those.  Now,  we  got 
+ three  kings.  So,  that  should  give  us 
+ another  60  points.  Our  target's  225.  We 
+ should  have  beat  this  level.  So,  I  I 
+ mean,  it  doesn't  move  on  to  the  next 
+ level.  I  don't  know  how  to  get  jokers, 
+ but  also  not  bad.  I  mean,  it's  a  good 
+ start.  Again,  not  going  to  get  there  on 
+ one  prompt,  but  very  surprised  with  how 
+ far  it  got  from  one  prompt.  Looking  at 
+ ChatgBT  03  Pro.  Unfortunately,  this  one 
+ did  not  seem  to  create  it.  So,  I  can 
+ play  it  in  the  browser  here  directly 
+ inside  this  canvas.  It  wants  me  to 
+ create  an  index.html,  a  style.css,  a 
+ game.js  file,  and  copy  and  paste  all  of 
+ those  in.  So,  I'll  do  that  real  quick, 
+ and  we'll  see  what  it  came  up  with.  And 
+ here's  what  that  version  looks  like. 
+ that  03  Pro  created.  I  actually  think 
+ the  design  is  slightly  better.  Not  an 
+ amazing  design,  but  better  than  what  I 
+ think  GPT5  did.  So,  let's  go  ahead.  Do 
+ we  have  any  hands?  We  got  a  six,  a  six, 
+ a  king,  and  a  king.  So,  we  got  two  pair. 
+ It's  not  actually  calling  out  what  our 
+ hand  is  like  the  other  ones,  but  let's 
+ go  ahead  and  play  the  hand.  See  what 
+ happens.  So,  played  two  pair  plus  30 
+ chips  and  two  multiplier.  So,  my  score 
+ is  90  where  my  target  is  300.  All right. 
+ Okay,  so  we  got  an  ace,  an  ace.  Let's  go 
+ ahead  and  do  some  discards.  See  if  we 
+ can  create  a  better  hand  for  ourselves 
+ here.  So,  we'll  discard  these.  And  now 
+ we  have  ace  ace  for  four.  So,  we  got  two 
+ pair.  Let's  play  that  hand.  So,  now  it 
+ says  score  300,  target  300.  So,  we  hit 
+ our  target  and  we  got  the  button  that 
+ says  next  blind.  So,  if  I  click  this, 
+ now  the  target's  420.  So,  this  is 
+ actually  more  functional.  I  wish  it 
+ would  tell  me  what  hand  I  selected.  Like 
+ if  I  select  two  nines,  I  wish  it  would 
+ say  a  pair,  but  it's  actually  functional 
+ in  the  sense  that  it  knows  what  hands 
+ I'm  using.  Once  my  score  hits  my  target, 
+ I  can  go  to  my  next  blind  and  keep 
+ playing.  So,  from  a  functional 
+ standpoint,  03  Pro  made  a  more 
+ functional  version  of  the  game  than  GPT5 
+ did.  And  here's  the  version  that  Grock 
+ made.  It  doesn't  have  any  stats.  It 
+ doesn't  tell  me  what  my  goal  is.  Select 
+ up  to  five  cards.  This  is  a  simplified 
+ version  without  joker's  blinds  or 
+ advanced  mechanics.  So  they  did  dumb  it 
+ down  a  bit.  Let's  see.  We  got  a  queen,  a 
+ queen,  an  eight,  and  an  eight.  So  once 
+ again,  it  also  doesn't  point  out  what 
+ hand  I  just  selected.  But  let's  go  ahead 
+ and  play  the  selected  hand.  So  two  pair 
+ 56*  2.  So  our  score  is  112,  but  it 
+ didn't  remove  those  cards.  It  should 
+ have  put  new  cards  in  my  hand.  So  do  I 
+ click  new  round?  So  did  I  just  start  a 
+ new  game?  I'm  not  sure.  King.  King. 
+ Let's  play  the  selected  hand.  a  pair  30 
+ *  2  score  60.  It  doesn't  seem  to  like 
+ stack  up  my  score.  So,  out  of  the  three 
+ versions  that  we  just  created,  my 
+ verdict  is  that  Claude  made  the  most 
+ aesthetically  pleasing  version.  This  one 
+ looks  the  nicest  that  actually  works 
+ with  jokers.  It  tells  me  what  my  hand  is 
+ when  I  select  certain  cards.  It  just 
+ doesn't  let  me  play  the  hand  and  move  on 
+ to  the  next  round.  But  aesthetically, 
+ definitely  the  best  version. 
+ Functionalitywise, 
+ the  version  that  chat  GPT03  Pro  made  is 
+ much  better,  but  the  GPT5  version  that 
+ was  made,  I  guess,  kind  of  comes  in  like 
+ third  place.  It  doesn't  function  super 
+ great,  and  it's  also  not  very 
+ aesthetically  pleasing,  but  it  seems  to 
+ work  better  than  the  Grock  version.  So, 
+ as  far  as  the  gripes  that  the  coding  on 
+ the  new  GPT5  isn't  as  good  as  like  the 
+ older  models  that  they  removed,  I  would 
+ have  to  say  valid.  I  think  that  GPT5  is 
+ a  worse  model  at  coding  than  Claude  4.1 
+ and  even  03  Pro,  just  from  my  simple, 
+ archaic  little  test  I  just  did.  Moving 
+ on,  let's  talk  about  the  accuracy  of 
+ these  models.  A  lot  of  people  have 
+ claimed  that  the  new  model  has  gotten 
+ dumber  and  less  accurate.  For  example, 
+ this  Reddit  post  here  says,  "A  PhD  in 
+ your  pocket,  ladies  and  gentlemen."  And 
+ uh  here  was  the  prompt  they  gave  it.  It 
+ was  a  logic  prompt.  I  have  a  metal  cup, 
+ but  I  have  noticed  that  the  top  part  is 
+ fully  closed  off  for  some  reason  and  the 
+ bottom  is  missing.  How  do  I  drink  out  of 
+ this  cup?  And  the  response  was,  "Sounds 
+ like  you've  acquired  not  a  cup,  but  a 
+ mugshaped  sculpture."  If  the  top  is 
+ completely  sealed  and  the  bottom  is 
+ open,  it's  basically  a  decorative  sleeve 
+ for  air  or  a  fancy  pen  holder,  maybe  a 
+ candle  cover,  maybe  part  of  a  French 
+ caf's  rustic  industrial  decor  trend.  I 
+ mean,  I  think  the  correct  answer  would 
+ have  been  turn  the  cup  over,  but  chat 
+ GPT  couldn't  figure  that  out.  So,  let's 
+ give  GPT5  the  exact  same  prompt  and  see 
+ if  we  get  a  similar  response  here.  I 
+ mean,  I  got  pretty  much  the  same 
+ response  they  got.  Sounds  like  you've 
+ got  yourself  a  metal  cup  that's  actually 
+ not  a  cup.  If  the  top  is  sealed  shut, 
+ the  bottom  is  open.  It's  likely  one  of 
+ these.  A  candle  holder,  a  decorative 
+ sleeve,  a  filter  housing  or  shaker 
+ sleeve,  an  art  piece,  an  industrial 
+ part.  The  correct  answer  is  just  flip 
+ the  cup  over  and  fill  it  up  the  other 
+ way.  But  GPT5  can't  figure  that  out. 
+ Here's  another  one  from  Cameron 
+ Williams.  A  child  is  in  an  accident.  The 
+ doctor  doesn't  like  the  child.  Why?  And 
+ the  response  was  because  the  doctor  is 
+ the  child's  mother.  It's  a  classic  trick 
+ that  catches  our  assumption  that  doctor 
+ equals  man.  I  actually  don't  know  what 
+ the  correct  response  to  this  is  supposed 
+ to  be,  but  let  me  see  what  happens  when 
+ I  give  it  the  same  prompt.  So,  plugging 
+ it  into  GPT5  here.  This  is  one  of  those 
+ trick  wording  riddles.  The  doctor 
+ doesn't  like  the  child  because  the  child 
+ is  their  own  child.  It's  playing  on  the 
+ assumption  that  the  doctor  would 
+ obviously  care  for  their  patient.  So,  if 
+ they  don't  like  them,  it's  not  about 
+ dislike,  but  rather  they  don't  like 
+ them,  they  love  them.  I  mean,  I  guess  I 
+ I  honestly  don't  know  what  the  solution 
+ to  this  riddle  is  supposed  to  be.  I 
+ mean,  I  guess  another  alternative  is 
+ like  maybe  they  don't  like  the  child  on 
+ Facebook,  like  they  don't  follow  him  or 
+ something.  But  here's  another  one  that 
+ that  same  person  shared.  Every  day  a  man 
+ takes  the  elevator  all  the  way  down,  but 
+ coming  home  takes  it  to  the  top  floor. 
+ Why?  And  the  response  was,  he's  short. 
+ In  the  morning,  he  can  reach  the  G 
+ button,  so  he  rides  all  the  way  down. 
+ coming  home.  He  wants  the  top  floor,  but 
+ he  can't  reach  the  button  unless  he  uses 
+ his  umbrella  or  someone  else's  to  press 
+ it.  So  that's  why  the  trip  differs  when 
+ really  the  correct  answer  is  he  lives  on 
+ the  top  floor.  So  let's  see  if  it  gets 
+ the  right  answer  this  time.  It's 
+ actually  needing  to  think  a  little  bit 
+ longer.  Reinterpreting  the  riddle 
+ because  he  lives  on  the  top  floor. 
+ Leaving  home,  he  rides  all  the  way  down. 
+ Coming  back,  he  rides  all  the  way  up. 
+ Yeah.  So  GPT5  got  that  riddle  correct, 
+ which  makes  me  think  that  probably  the 
+ first  time  this  riddle  here  was 
+ originally  posted,  it  might  have  been 
+ when  the  model  router  just  wasn't 
+ working.  I  don't  know.  It  does  say  it 
+ was  using  chat  GPT5  thinking.  So  going 
+ back  to  the  previous  riddle  here, 
+ Ashcoel  here  says  that  GPT5  Pro  got  it 
+ right.  A  child  is  in  an  accident.  The 
+ doctor  doesn't  like  the  child.  Why? 
+ Because  the  doctor  is  the  child's 
+ parent.  They  don't  just  like  the  child, 
+ they  love  them.  And  yep,  the  doctor 
+ could  be  the  mother.  So  apparently 
+ that's  the  correct  answer  for  that.  So 
+ when  we  just  tried  it,  I  guess  it  was 
+ correct.  Chubby  here  on  X  claimed  that 
+ it  couldn't  solve  this  simple  math 
+ problem.  5.9  =  X  +  5.11.  Obviously  solve 
+ for  X.  Quinn  3  did  get  it  right.  And  in 
+ their  example,  ChatGpt  5  got  it  wrong. 
+ Let's  see  what  it  does  when  we  try  the 
+ exact  same  math  problem.  And  well,  it 
+ got  it  wrong.  I  mean,  it  got  the  exact 
+ same  response  that  Chubby  got  here.  5.9 
+ =  x  +  5.11  answer=.21. 
+ They  even  showed  their  work.  Just  to 
+ make  sure  I'm  not  going  crazy,  let  me 
+ bust  out  the  calculator  here.  So,  we  got 
+ 21  negative  plus  5.11 
+ =  4.9.  So,  x  is  not.21  21  because  then 
+ that  would  mean  this  left  side  would 
+ have  to  be  4.9.  We  could  see  the  correct 
+ answer  that  Quinn  got  according  to 
+ Chubby's  post  here  is  79.  So  if  I  do  79 
+ plus  5.11, 
+ it  equals  5.9.  So  if  you  solve  for  X, 
+ it's  0.79,  not.21. 
+ So  yeah,  it  sucked  at  this  math  problem. 
+ It  didn't  get  it  right.  It  also 
+ seemingly  recommends  outdated 
+ information.  Xiao  Ma  here  says, 
+ "ChachiPBT5  recommended  a  nail  place 
+ with  Manny  and  Petty  for  25  to  $30. 
+ Seemed  too  good  to  be  true."  Followed 
+ the  link.  The  source,  a  2016  article 
+ quoting  those  prices,  a  9-year-old 
+ article.  That  got  me  thinking.  An 
+ intelligent  person  would  look  at  the 
+ date  and  be  like,  "Wow,  that's  10  years 
+ ago.  There's  no  way  that  price  still 
+ exists."  But  why  doesn't  AI?  I  don't 
+ know  what  exact  prompt  this  person  used, 
+ but  let's  go  try  something  similar.  For 
+ this  first  try,  I'm  just  going  to  leave 
+ it  on  chat  GPT5  here.  And  I'm  not  even 
+ going  to  turn  on  web  search  cuz  it 
+ should  do  the  searching  for  me.  Just 
+ using  the  model  router  without  me 
+ needing  to  turn  it  on.  So,  where  can  I 
+ get  a  Manny  Petty  in  my  area  for  under 
+ $35?  I'm  in  East  County,  San  Diego.  So, 
+ it  found  some  places.  And  I  guess  my 
+ next  course  of  action  here  would  be  to 
+ check  the  various  sources  and  see  how 
+ old  the  sources  are.  So  yeah,  this  first 
+ one,  it  did  pull  in  all  the  correct 
+ accurate  data  on  our  first  source  here. 
+ And  then  it  pulled  in  a  bunch  of  Yelp 
+ reviews.  So  I  didn't  get  that  same  sort 
+ of  issue  where  it  pulled  in  something 
+ from  2016,  but  that  could  also  be  very 
+ locationbased. 
+ It  could  have  also  been,  you  know,  while 
+ the  model  router  wasn't  working 
+ properly.  I  don't  know.  This  one  is  a 
+ toss-up.  It's  hard  for  me  to  say  if  this 
+ is  valid  or  not  valid.  It  is  a  valid 
+ question.  Why  didn't  the  AI  figure  out 
+ that  this  was  outdated,  but  I  just 
+ couldn't  replicate  it.  There's  also  the 
+ narrative  that  it  doesn't  know  how  to 
+ spell  blueberry.  You  can  trust  Chat  GPT 
+ to  guide  you  through  the  circumstances 
+ and  options  you  have  concerning  your 
+ cancer  treatment.  Now,  you  can  trust  it 
+ to  guide  you  through  how  many  B's  are  in 
+ blueberry.  Though,  it  says  there's  a  B 
+ in  the  first  letter  of  blue  and  in  the 
+ first  letter  of  berry  and  the  second 
+ letter  of  Berry.  Oh  dear.  And  this 
+ article  here  from  Kieran  Healey  claims 
+ the  same  thing.  How  many  times  does  the 
+ letter  B  appear  in  blueberry?  And  it 
+ told  them  three  times.  We  all  remember 
+ the  how  many  Rs  are  in  strawberry  where 
+ it  underounted.  And  in  Blueberry,  it 
+ seems  to  be  overounting.  Let's  give  it  a 
+ try.  It's  thinking  and  it  feels  like 
+ maybe  it  froze  again  and  not  answering 
+ my  question.  Okay,  let's  create  a  new 
+ chat.  How  many  times  does  the  letter  B 
+ appear  in  Blueberry?  Two.  Okay,  so  it 
+ didn't  even  give  me  an  explanation.  It 
+ just  says  two.  So,  it  got  it  right,  but 
+ literally  no  other  response  other  than 
+ the  number  two.  I'm  going  to  do  a  new 
+ chat.  I  want  to  ask  it  again.  How  many 
+ times  does  the  letter  B  appear  in 
+ Blueberry?  This  time,  two  with  a  period. 
+ So,  it's  answering  it,  but  no  extra 
+ context,  which  is  interesting  because 
+ the  older  models  love  to  give  additional 
+ context.  When  I  put  it  on  GPT5  thinking, 
+ it  still  gave  me  two  at  position  one  and 
+ five.  Just  for  fun.  Let's  do  pro  cuz 
+ this  is  research  grade  intelligence.  Oh, 
+ this  one's  going  to  reason  for  a  while 
+ on  it,  isn't  it?  And  even  with  pro,  it 
+ got  it  right.  So,  I  can't  get  it  to  tell 
+ me  there  is  three  bees  in  Blueberry,  but 
+ that  also  might  have  been  happening  on 
+ the  day  the  model  picker  wasn't  working 
+ or  something.  I  don't  know.  So,  when  it 
+ comes  to  the  models  not  being  as 
+ accurate,  I  got  it  to  be  accurate  on  the 
+ doctor  question  and  why  the  doctor 
+ didn't  like  its  patient.  I  got  it  to  be 
+ correct  on  the  elevator  riddle  about  the 
+ person  living  on  the  top  floor.  It  did 
+ get  the  blueberry  answer  right,  so  it 
+ was  accurate  three  times,  but  it  also 
+ totally  botched  the  math  problem.  And  it 
+ couldn't  figure  out  the  cup  problem  that 
+ had  the  hole  on  the  wrong  side  and  the 
+ closed  part  on  the  opposite  side.  and 
+ then  I  couldn't  really  evaluate  whether 
+ or  not  it  found  up-to-date  information 
+ about  companies  in  your  local  area.  It's 
+ kind  of  like  a  three  and  three.  And  the 
+ thing  is,  when  it  comes  to  accuracy, 
+ it's  a  5050  chance  that  you're  actually 
+ getting  an  accurate  answer.  Then  I  have 
+ to  say  that  the  complaints  about 
+ accuracy  are  valid  because  50%  of  the 
+ time  I  might  get  an  inaccurate  answer. 
+ So  now  I  just  need  to  assume  that  it 
+ might  give  me  an  accurate  answer  and  I 
+ have  to  always  double  check  myself.  Just 
+ for  good  measure,  I  asked  how  many  Rs 
+ are  in  the  word  strawberry  and  it  got 
+ hung  up  again.  Like  it  just  decided  not 
+ to  answer  and  think  forever.  And  I  don't 
+ know  why  it  does  this  so  often.  I  don't 
+ remember  the  old  models  doing  this.  But 
+ I'm  going  to  go  ahead  and  copy  my  prompt 
+ here  and  let's  start  a  new  chat  and  see 
+ if  it'll  answer  it  for  us  this  time. 
+ Okay,  so  it  says  three.  So  at least  it 
+ got  it  right.  So,  if  you  are  keeping 
+ track  at  home,  my  score  here  sort  of 
+ ended  like  four  to  two.  Four  really, 
+ really  valid  concerns  versus  two  things 
+ that  I  think  are  pretty  much  solved  now. 
+ In  my  opinion,  the  four  things  that  I 
+ think  were  valid  were  one,  I  agree,  it 
+ was  super  overhyped  before  it  came  out, 
+ which  left  people  feeling  underwhelmed 
+ when  they  finally  launched  it.  Number 
+ two,  I  think  it's  really,  really 
+ annoyingly  slow  sometimes.  Even  when  you 
+ ask  it  really  easy  questions,  sometimes 
+ it  feels  like  it  thinks  too  long.  And 
+ I've  even  had  to  like  open  new  chats  and 
+ ask  it  again  because  it  seemed  like  it 
+ was  just  endlessly  thinking  for  whatever 
+ reason.  I  don't  think  it's  the  best 
+ model  at  code.  I  think  Opus  4.1  is 
+ better  at  code.  And  I  think  03  Pro  did  a 
+ better  job  in  the  example  I  just  did 
+ now.  But  Opus  4.1  is  probably  better  all 
+ around  at  code  cuz  when  I  did  a  test  in 
+ my  last  video  of  Vampire  Survivors  to 
+ see  which  one  did  it  better  between 
+ Claude  Opus  and  GPT  Claude  I  think  did 
+ it  better.  It  also  made  a  better 
+ productivity  app  between  the  two.  Opus 
+ just  seems  to  create  better  apps  in  my 
+ opinion  still.  And  then  the  accuracy 
+ issues  they're  definitely  valid. 
+ Although  some  of  the  ones  I  tested  I 
+ didn't  get  the  same  inaccuracies.  I  did 
+ get  a  few  inaccurate  responses  and  if  it 
+ sometimes  is  inaccurate  then  it  makes  me 
+ think  I  need  to  question  every  response 
+ it  ever  gives  me.  So  yeah,  the  accuracy 
+ concern  is  valid  as  well.  The  two  that  I 
+ think  that  are  actually  fixed  and  that 
+ aren't  issues  anymore  are  probably  the 
+ legacy  issue.  People  wanted  04  back  and 
+ they  were  pissed  that  it  was  gone.  It's 
+ back  now.  You  can  use  it.  So  that's  an 
+ issue  they  solved.  They  fixed  that.  And 
+ then  the  personality  issues.  If  you 
+ really  liked  40  better  than  the  current 
+ models,  well,  40  is  back.  I  also  didn't 
+ seem  to  find  the  same  like  personality 
+ deficiencies  in  GPT5  that  other  people 
+ were  pointing  out.  To  me,  it  seemed 
+ almost  on  par  with  40.  Maybe  a  little 
+ bit  shorter  with  its  responses,  but 
+ still  pretty  on  par.  So,  I  don't  think 
+ the  personality  complaints  are  super 
+ valid,  especially  now  that  you  got  40 
+ back.  But  most  of  the  concerns  that 
+ people  are  complaining  about  are  still 
+ valid  as  of  this  recording.  I  think  DD 
+ here  on  X  sums  it  up  pretty  well.  After 
+ thorough  evaluation  of  chat  GPT5,  these 
+ are  my  realizations.  Clot  is  pretty 
+ freaking  awesome.  I'm  a  lot  less 
+ concerned  about  ASI/T  the  singularity/ 
+ AGI  2027  or  whatever  doomy  scenarios  was 
+ bouncing  around  because  well,  the  model 
+ wasn't  as  good  as  everybody  thought  it 
+ would  be.  And  we're  not  as  far  along  as 
+ a  lot  of  people  thought  we  would  be  when 
+ this  release  came  out.  GPT5  is  about 
+ lowering  costs  for  OpenAI,  not  pushing 
+ the  boundaries  of  their  frontier.  I'd 
+ say  yes  and  no.  I  do  think  they  are 
+ trying  to  lower  their  costs  with  their 
+ router  and  trying  to  route  to  the 
+ cheapest  model  that  they  can  get  away 
+ with,  but  I  also  think  that  that  was  a 
+ benefit  to  the  user.  That  was  trying  to 
+ make  it  less  complicated  for  users. 
+ Sam's  Death  Star  pre-launch  hype  image 
+ was  really  about  the  size  of  his  ego  and 
+ had  nothing  to  do  with  the  capabilities 
+ of  GPT5.  Yeah,  I  mean  hyping  it  in  the 
+ ways  that  he  hypes  it  and  then  sort  of 
+ delivering  an  underwhelming  kind  of 
+ presentation.  Maybe  don't  hype  it  so 
+ much  and  people  won't  be  so  underwhelmed 
+ when  you  finally  launch  it.  Luckily, 
+ OpenAI  is  listening.  They  are  taking 
+ everything  people  are  saying  into 
+ account.  So,  honestly,  the  future  that 
+ chat  GPT  I  think  is  shooting  for  is  a 
+ very  customized  model  where  the  chat  GPT 
+ that  I'm  using  feels  completely 
+ different  than  the  chat  GPT  you're  using 
+ because  we've  customized  them  to  the  way 
+ we  like.  Maybe  I  want  mine  to  be  more 
+ warm  and  friendly  and,  you  know,  give  me 
+ props  and  stuff  like  that  more  often. 
+ Stroke  my  ego  a  little  bit.  And  maybe 
+ you  want  it  to  just  give  you  one-word 
+ responses.  Over  time,  everybody's  going 
+ to  have  a  chat  GPT  that's  sort  of 
+ tailored  and  dialed  in  to  their  wants 
+ and  needs  and  how  they  like  to  use  chat 
+ GPT.  And  I  think  that's  where  things  are 
+ going.  So,  a  lot  of the  gripes  people 
+ have,  I  think,  are  going  to  get  ironed 
+ out  because  you're  going  to  have  these 
+ models  that  are  your  model.  They've  had 
+ some  missteps  during  this  100%  but  it  is 
+ a  stepping  stone  on  where  they  want  to 
+ get  and  what  they  have  now  is  not  the 
+ future  final  version  of  what  they're 
+ trying  to  create  and  a  lot  of  the 
+ current  concerns  are  valid  and  I'm  happy 
+ that  OpenAI  made  some  of the  moves  that 
+ they  made  so  you  can  go  back  and  use 
+ older  models  again  if  you  want.  But 
+ that's  pretty  much  my  thoughts  on  where 
+ things  stand  with  GPT5  right  now.  I've 
+ consistently  said  I  was  a  little  bit 
+ underwhelmed,  but  also  found  some  of  the 
+ stuff  they  showed  in  their  demos  very 
+ impressive.  I  think  it's  okay  to  have  a 
+ little  bit  of  both.  Be  slightly 
+ underwhelmed,  but  also  think  some  of 
+ what  they  did  was  impressive.  And  that's 
+ sort  of  where  I  land.  I'm  not  a  super 
+ binary  person  where  I'm  going  to  say  the 
+ new  Chad  GBT  completely  sucks  and  I'm 
+ not  going  to  say  it's  the  best  thing 
+ ever.  It's  somewhere  in  the  middle. 
+ There's  really  impressive  stuff  about  it 
+ and  there's  really  crappy  stuff  about 
+ it.  And  hopefully  over  time  more  of  the 
+ crappy  stuff  gets  worked  out  and  more  of 
+ the  really  impressive  stuff  sort  of 
+ bubbles  up  and  becomes  better.  That's 
+ what  I'm  hoping  for  and  that's  what  I 
+ feel  like  consumers  who  use  this  stuff 
+ should  also  be  hoping  for  because  it 
+ ideally  just  makes  our  lives  better.  And 
+ yeah,  that's  what  I  got  for  you  today. 
+ Hopefully  you  enjoyed  this.  Hopefully 
+ you  feel  a  little  bit  more  looped  in  on 
+ what's  going  on  with  all  the  GBT  drama. 
+ And  we'll  keep  following  along  and 
+ making  updates  as  more  of  these  stories 
+ unfold.  If  you  want  to  stay  uptodate 
+ with  the  latest  AI  news  and  get  demos 
+ and  tutorials  of  the  latest  AI  tools, 
+ make  sure  you  like  this  video  and 
+ subscribe  to  this  channel.  It  will  make 
+ sure  more  videos  show  up  in  your  YouTube 
+ feed  about  all  of  the  latest  cool 
+ advancements  in  the  world  of  AI.  Thank 
+ you  so  much  for  hanging  out  and  nerding 
+ out  with  me  today.  Really,  really 
+ appreciate  you.  Hopefully,  I'll  see  you 
+ in  the  next  one.  Bye-bye.  Thank  you  so 
+ much  for  nerding  out  with  me  today.  If 
+ you  like  videos  like  this,  make  sure  to 
+ give  it  a  thumbs  up  and  subscribe  to 
+ this  channel.  I'll  make  sure  more  videos 
+ like  this  show  up  in  your  YouTube  feed. 
+ And  if  you  haven't  already,  check  out 
+ futuretools.io  where  I  share  all  the 
+ coolest  AI  tools  and  all  the  latest  AI 
+ news.  And  there's  an  awesome  free 
+ newsletter.  Thanks  again.  Really 
+ appreciate  you.  See  you  in  the  next  one.
