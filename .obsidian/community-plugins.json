@@ -2,6 +2,6 @@
   "obsidian-git",
   "obsidian-custom-attachment-location",
   "ai-providers",
-  "obsidian-excalidraw-plugin",
-  "copilot"
+  "copilot",
+  "templater-obsidian"
 ]
