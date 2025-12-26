@@ -57,4 +57,5 @@ print(schedule_appointment(user_request))
 ```
 
 This code example demonstrates how Claude MCP could be utilized to extend a language model's capabilities by integrating with external web services. In this case, the LLM is interacting with an appointment scheduling service API using the appropriate HTTP request method and JSON payload format.
-```
+
+
