@@ -13,4 +13,6 @@ views:
       - file.name
       - file.ext
       - file.basename
-    cardSize: 300
+    cardSize: 370
+  - type: table
+    name: View1
