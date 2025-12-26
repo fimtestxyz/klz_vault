@@ -14,5 +14,6 @@ views:
       - file.ext
       - file.basename
     cardSize: 370
+    image: file.file
   - type: table
     name: View1
