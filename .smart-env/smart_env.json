@@ -1,0 +1,130 @@
+{
+  "smart_templates_plugin": {
+    "smart_completions": {
+      "chat_model": {
+        "adapter": "ollama",
+        "ollama": {
+          "model_key": "deepseek-r1:latest",
+          "host": "http://localhost:11434",
+          "models": {
+            "qwen3-vl:8b": {
+              "model_name": "qwen3-vl:8b",
+              "id": "qwen3-vl:8b",
+              "multimodal": false,
+              "max_input_tokens": 262144,
+              "can_use_tools": true
+            },
+            "qwen3:8b": {
+              "model_name": "qwen3:8b",
+              "id": "qwen3:8b",
+              "multimodal": false,
+              "max_input_tokens": 40960,
+              "can_use_tools": true
+            },
+            "gemma3:12b": {
+              "model_name": "gemma3:12b",
+              "id": "gemma3:12b",
+              "multimodal": false,
+              "max_input_tokens": 131072,
+              "can_use_tools": true
+            },
+            "erwan2/DeepSeek-Janus-Pro-7B:latest": {
+              "model_name": "erwan2/DeepSeek-Janus-Pro-7B:latest",
+              "id": "erwan2/DeepSeek-Janus-Pro-7B:latest",
+              "multimodal": false,
+              "max_input_tokens": 16384,
+              "can_use_tools": true
+            },
+            "baby-klz:latest": {
+              "model_name": "baby-klz:latest",
+              "id": "baby-klz:latest",
+              "multimodal": false,
+              "max_input_tokens": 131072,
+              "can_use_tools": true
+            },
+            "gemma3n:e2b": {
+              "model_name": "gemma3n:e2b",
+              "id": "gemma3n:e2b",
+              "multimodal": false,
+              "max_input_tokens": 32768,
+              "can_use_tools": true
+            },
+            "deepseek-r1:latest": {
+              "model_name": "deepseek-r1:latest",
+              "id": "deepseek-r1:latest",
+              "multimodal": false,
+              "max_input_tokens": 131072,
+              "can_use_tools": true
+            }
+          }
+        }
+      }
+    }
+  },
+  "smart_contexts": {
+    "smart_templates_plugin": {
+      "templates": {
+        "0": {
+          "before": "<context_primary path=\"{{ITEM_PATH}}\" mtime=\"{{ITEM_TIME_AGO}}\">",
+          "after": "</context_primary>"
+        },
+        "1": {
+          "before": "<context_linked path=\"{{ITEM_PATH}}\" mtime=\"{{ITEM_TIME_AGO}}\">",
+          "after": "</context_linked>"
+        },
+        "-1": {
+          "before": "<context>\n<file_tree>\n{{FILE_TREE}}\n</file_tree>",
+          "after": "</context>"
+        }
+      }
+    }
+  },
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true,
+    "min_chars": 200
+  },
+  "smart_sources": {
+    "min_chars": 200,
+    "embed_model": {
+      "adapter": "transformers",
+      "transformers": {
+        "legacy_transformers": false,
+        "model_key": "TaylorAI/bge-micro-v2"
+      },
+      "TaylorAI/bge-micro-v2": {}
+    }
+  },
+  "excluded_headings": "",
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "",
+  "language": "en",
+  "new_user": true,
+  "re_import_wait_time": 13,
+  "smart_chat_threads": {
+    "chat_model": {
+      "adapter": "ollama",
+      "ollama": {}
+    },
+    "active_thread_key": "",
+    "system_prompt": "",
+    "detect_self_referential": true,
+    "review_context": true,
+    "stream": true,
+    "language": "en",
+    "modifier_key_to_send": "shift",
+    "use_tool_calls": true
+  },
+  "smart_notices": {
+    "muted": {}
+  },
+  "smart_view_filter": {
+    "expanded_view": false,
+    "render_markdown": true,
+    "show_full_path": false
+  },
+  "version": "",
+  "smart_templates": {
+    "template_name": ""
+  }
+}
