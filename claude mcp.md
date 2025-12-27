@@ -1,6 +1,5 @@
 ---
 tags:
-  - think-Okay
   - >-
     let-s-tackle-this-task-The-user-wants-me-to-analyze-a-document-about-Claude-MCP-and-generate-up-to-5-relevant-tags-in-kebab-case-format-The-key-points-are-that-the-LLM-can-interact-with-web-services
   - perform-actions-like-API-calls-or-scheduling
