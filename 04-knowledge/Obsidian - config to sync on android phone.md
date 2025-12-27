@@ -29,3 +29,13 @@ klz_vault/: 682 files pushed, 0 skipped. 1.0 MB/s (20904008 bytes in 19.889s)
 - Open folder as Vault (point to klz_vault folder) -> Use This folder 
 
 # 4. Save Github Personal Access Token 
+
+- https://github.com/fimtestxyz/klz_vault
+		- Profile Icon -> Settings -> Developer Settings -> Personal Access Token (token classic) -> check repo
+
+
+Techshrimp # Obsidian邪修用法，免费云同步，AI，手机端，还有进阶技巧
+ timestamp 15:08
+![personal access token|600](assets/Obsidian%20-%20Config%20to%20sync%20on%20Android%20phone/file-20251227112939192.png)\
+
+![github|600](assets/Obsidian%20-%20Config%20to%20sync%20on%20Android%20phone/file-20251227113426898.png)
