@@ -1,3 +1,14 @@
+---
+tags:
+  - think-Okay
+  - >-
+    let-me-break-this-down-The-task-is-to-analyze-a-document-about-Balance-Sheet-Recession-by-Richard-Koo-and-generate-up-to-5-relevant-kebab-case-tags-The-user-has-provided-very-specific-formatting-requirements-lowercase-with-hyphens
+  - concise-1-3-words
+  - descriptive-without-generic-terms-or-symbols-Hmm
+  - >-
+    the-document-content-appears-to-be-a-reference-format-with-author-name-and-years-This-suggests-it-s-likely-an-academic-paper-or-economic-analysis-discussing-Balance-Sheet-Recession
+---
+
 
 **资产负债表衰退**（Balance Sheet Recession）是==由野村综合研究所首席经济学家**辜朝明**（Richard Koo）提出的一种宏观经济理论==。它描述了在资产价格泡沫破灭后，私人部门因资产价值大幅缩水而陷入资不抵债，导致其行为模式发生根本性转变，进而引发长期经济停滞的现象。 
 

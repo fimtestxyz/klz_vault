@@ -1,3 +1,14 @@
+---
+tags:
+  - think-Okay
+  - >-
+    let-s-tackle-this-task-step-by-step-The-user-wants-me-to-analyze-a-document-about-Computer-Vision
+  - >-
+    specifically-focusing-on-the-relationship-between-data-scale-and-deep-learning-performance-The-key-topics-here-are-definitely-around-large-scale-datasets-like-JFT-300M
+  - performance-metrics-on-benchmarks-such-as-COCO-object-detection
+  - and-the-core-concepts-of-deep-learning-in-computer-vision-First
+---
+
 # Computer Vision Background and Issues
 
 ## Recent Decade of Deep Learning in Computer Vision

@@ -2,13 +2,22 @@
 title: obsidianmd/obsidian-clipper
 source: https://deepwiki.com/obsidianmd/obsidian-clipper
 author:
-  - "[[DeepWiki]]"
-published: 2025-08-22
-created: 2025-12-27
-description: The Obsidian Web Clipper is an official cross-browser extension that captures and transforms web content into durable Markdown files stored in Obsidian vaults. Users can highlight text, extract clean
+  - '[[DeepWiki]]'
+published: 2025-08-22T00:00:00.000Z
+created: 2025-12-27T00:00:00.000Z
+description: >-
+  The Obsidian Web Clipper is an official cross-browser extension that captures
+  and transforms web content into durable Markdown files stored in Obsidian
+  vaults. Users can highlight text, extract clean
 tags:
-  - obsidian
-  - deepwiki
+  - think-Okay
+  - >-
+    let-s-tackle-this-document-tagging-task-The-user-wants-me-to-analyze-the-content-and-suggest-up-to-5-relevant-tags-in-kebab-case-format-First
+  - >-
+    I-need-to-understand-what-this-document-is-about-It-describes-the-Obsidian-Web-Clipper-a-browser-extension-that-converts-web-content-into-Markdown-files-for-storage-in-Obsidian-vaults-The-text-mentions-features-like-highlighting
+  - clean-extraction
+  - >-
+    and-AI-powered-content-processing-Looking-at-the-key-elements-Obsidian-Web-Clipper-is-a-browser-extension-It-works-across-multiple-browsers-including-Chrome
 ---
 Menu
 

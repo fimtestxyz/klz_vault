@@ -1,13 +1,24 @@
 ---
 title: Obsidian Base vs Canvas
-source: https://www.perplexity.ai/search/what-is-the-use-of-obsidian-ba-2EmMjjE_QNC3SoqzeY8odA
+source: >-
+  https://www.perplexity.ai/search/what-is-the-use-of-obsidian-ba-2EmMjjE_QNC3SoqzeY8odA
 author:
   - gpts.creator@gmail.com
-published:
-created: 2025-12-27
-description: Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
+published: null
+created: 2025-12-27T00:00:00.000Z
+description: >-
+  Perplexity is a free AI-powered answer engine that provides accurate, trusted,
+  and real-time answers to any question.
 tags:
-  - obsidian
+  - think-Okay
+  - >-
+    let-s-tackle-this-task-The-user-wants-me-to-analyze-the-document-content-about-Obsidian-Base-and-Canvas
+  - >-
+    then-generate-up-to-5-relevant-tags-in-kebab-case-format-The-document-compares-two-Obsidian-features-Base-and-Canvas-First
+  - >-
+    I-need-to-understand-what-these-terms-represent-From-the-content-Obsidian-Base-seems-to-be-about-structured-data-views
+  - >-
+    like-tables-and-cards-for-organizing-notes-It-mentions-academic-note-taking-and-project-management-Obsidian-Canvas-appears-to-be-a-visual
 ---
 ## What is the use of obsidian base and canvas
 
