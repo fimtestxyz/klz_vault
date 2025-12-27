@@ -4,4 +4,28 @@
 - Turn on USB Debugging on phone
 - 
 
-# 2. adb copy klz_vault to  Documents folder
+# 2. adb
+
+Copy klz_vault to  Documents folder
+```bash
+  ╱  ~/Documents  adb devices -l                                                                                                                                                                             ✔ ╱ base  ╱ at 11:19:54  
+List of devices attached
+R58W502985Z            device usb:3-1.1 product:a24nsxx model:SM_A245F device:a24 transport_id:3
+
+
+  ╱  ~/Documents  adb shell rm -fr /sdcard/Documents/klz_vault/                                                                                                                                              ✔ ╱ base  ╱ at 11:19:59  
+
+
+  ╱  ~/Documents  adb push klz_vault /sdcard/Documents                                                                                                                                                       ✔ ╱ base  ╱ at 11:20:02  
+
+klz_vault/: 682 files pushed, 0 skipped. 1.0 MB/s (20904008 bytes in 19.889s)
+
+  ╱  ~/Documents 
+```
+
+
+# 3. Android Osidian
+
+- Open folder as Vault (point to klz_vault folder) -> Use This folder 
+
+# 4. Save Github Personal Access Token 
