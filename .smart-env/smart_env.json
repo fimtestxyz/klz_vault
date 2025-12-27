@@ -2,7 +2,7 @@
   "smart_templates_plugin": {
     "smart_completions": {
       "chat_model": {
-        "adapter": "ollama",
+        "adapter": "lm_studio",
         "ollama": {
           "model_key": "deepseek-r1:latest",
           "host": "http://localhost:11434",
@@ -55,6 +55,29 @@
               "multimodal": false,
               "max_input_tokens": 131072,
               "can_use_tools": true
+            }
+          }
+        },
+        "lm_studio": {
+          "model_key": "deepseek/deepseek-r1-0528-qwen3-8b",
+          "models": {
+            "deepseek/deepseek-r1-0528-qwen3-8b": {
+              "id": "deepseek/deepseek-r1-0528-qwen3-8b",
+              "model_name": "deepseek/deepseek-r1-0528-qwen3-8b",
+              "description": "LM Studio model: deepseek/deepseek-r1-0528-qwen3-8b",
+              "multimodal": false
+            },
+            "qwen/qwen2.5-vl-7b": {
+              "id": "qwen/qwen2.5-vl-7b",
+              "model_name": "qwen/qwen2.5-vl-7b",
+              "description": "LM Studio model: qwen/qwen2.5-vl-7b",
+              "multimodal": false
+            },
+            "text-embedding-nomic-embed-text-v1.5": {
+              "id": "text-embedding-nomic-embed-text-v1.5",
+              "model_name": "text-embedding-nomic-embed-text-v1.5",
+              "description": "LM Studio model: text-embedding-nomic-embed-text-v1.5",
+              "multimodal": false
             }
           }
         }
@@ -125,6 +148,7 @@
   },
   "version": "",
   "smart_templates": {
-    "template_name": ""
+    "template_name": "",
+    "template_folder": "90-Template"
   }
 }
