@@ -1,13 +1,9 @@
 ---
 tags:
   - think-Hmm
-  - >-
-    the-user-has-provided-a-detailed-task-about-analyzing-document-content-and-generating-relevant-tags-The-output-format-requires-kebab-case
+  - the-user-has-provided-a-detailed-task-about-analyzing-document-content-and-generating-relevant-tags-The-output-format-requires-kebab-case
   - concise-1-3-words
-  - >-
-    descriptive-tags-without-any-symbols-or-prefixes-Looking-at-the-document-content
-  - >-
-    it-s-discussing-Claude-MCP-a-protocol-that-allows-large-language-models-to-interact-with-various-web-services-and-perform-actions-beyond-text-based-communication-There-s-a-code-example-showing-how-an-appointment-scheduling-function-would-use-Claude-MCP-to-integrate-with-external-APIs-The-key-topics-seem-to-be-around-language-models
+  - it-s-discussing-Claude-MCP-a-protocol-that-allows-large-language-models-to-interact-with-various-web-services-and-perform-actions-beyond-text-based-communication-There-s-a-code-example-showing-how-an-appointment-scheduling-function-would-use-Claude-MCP-to-integrate-with-external-APIs-The-key-topics-seem-to-be-around-language-models
 ---
 
 claude mcp allows the LLM to extend its function to other web services so as to allow LLM to complete web actions on behalf of users.
