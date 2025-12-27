@@ -1,3 +1,15 @@
+---
+tags:
+  - think-Okay
+  - >-
+    let-me-analyze-this-document-content-The-user-wants-a-comma-separated-list-of-up-to-5-kebab-case-tags-describing-key-topics-from-the-GPT-5-feedback-Looking-at-the-content
+  - >-
+    it-s-clearly-about-user-dissatisfaction-with-GPT-5-The-main-themes-seem-to-be-1-Personality-shift-complaints-2-Forced-migration/deletion-frustration-3-Performance-issues-in-various-areas-including-math
+  - coding
+  - >-
+    accuracy-4-Comparison-with-older-models-like-GPT-4-and-Claude-The-document-mixes-technical-performance-critiques-with-user-experience-concerns-While-the-output-format-requires-strictly-kebab-case-tags
+---
+
 
 ```summary
 The key user feedback on GPT-5, as summarized from the provided context and video content, includes:
