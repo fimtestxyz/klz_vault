@@ -36,6 +36,6 @@ klz_vault/: 682 files pushed, 0 skipped. 1.0 MB/s (20904008 bytes in 19.889s)
 
 Techshrimp # Obsidian邪修用法，免费云同步，AI，手机端，还有进阶技巧
  timestamp 15:08
-![personal access token|600](assets/Obsidian%20-%20Config%20to%20sync%20on%20Android%20phone/file-20251227112939192.png)\
+![personal access token|600](assets/Obsidian%20-%20Config%20sync%20on%20Android%20Phone/file-20251227112939192.png)\
 
-![github|600](assets/Obsidian%20-%20Config%20to%20sync%20on%20Android%20phone/file-20251227113426898.png)
+![github|600](assets/Obsidian%20-%20Config%20sync%20on%20Android%20Phone/file-20251227113426898.png)
