@@ -6,6 +6,8 @@ Domain: #tech #content
 
 ## Key Points
 - Use gpts.creator@gmail.com to create paid contents and distribute newsletter
+- Learn the pattern of huangyihe newtype.pro to publish his posts everyday
+
 
 ## Data / Facts
 - 
@@ -19,4 +21,5 @@ Domain: #tech #content
 # Links
 -  [zsxg | 社区工具](https://public.zsxq.com/groups/index.html?s=bd&v=1)
 - https://docs.omnivore.app/using/install.html
+- [huangyihe newtype.pro](https://www.newtype.pro/notes)\
 - 
