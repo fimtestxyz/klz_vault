@@ -5,7 +5,7 @@ To setup Easy coding material to help kids to learn coding
 
 ## Why It Matters
 - Economic impact:
-- Tech impact:
+- Tech impact: To help my kids to master key coding skills at  young age to connect to his primary school subjects
 - Societal impact:
 
 ## Supporting Evidence
