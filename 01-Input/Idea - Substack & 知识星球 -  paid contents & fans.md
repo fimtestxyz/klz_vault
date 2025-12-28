@@ -1,4 +1,4 @@
-# Substack & 知识星球 -  paid contents & fans
+# Substack & 知识星球 -  Paid contents & fans
 
 Source:  
 Date: 2025-12-28
@@ -18,4 +18,5 @@ Domain: #tech #content
 
 # Links
 -  [zsxg | 社区工具](https://public.zsxq.com/groups/index.html?s=bd&v=1)
+- https://docs.omnivore.app/using/install.html
 - 
