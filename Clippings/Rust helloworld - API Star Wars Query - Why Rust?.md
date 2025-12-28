@@ -10,7 +10,14 @@ description: ChatGPT is your AI chatbot for everyday use. Chat with the most adv
 tags:
   - clippings
 ---
-help me to create a rust project api endpoint which query https://swapi.info/playground for star wars on mac os.
+
+>  Rust Take away
+
+> > Rust is the sweet spot where you need:
+
+> >  > **C-like performance + memory control, but without C’s runtime risk.**
+
+Help me to create a rust project api endpoint which query https://swapi.info/playground for star wars on mac os.
 
 ---
 
