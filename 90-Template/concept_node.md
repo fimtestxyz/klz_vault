@@ -20,4 +20,4 @@ Explain it like I’m teaching someone.
 - 
 
 # Links
-- https://easyfuncoding.com/showcase-day-2024/
+- 

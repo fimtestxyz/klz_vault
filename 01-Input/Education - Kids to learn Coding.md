@@ -1,7 +1,7 @@
 # Concept: To build good material for kids to learn coding
 
 ## Core Idea (1–2 sentences)
-Explain it like I’m teaching someone.
+To setup Easy coding material to help kids to learn coding
 
 ## Why It Matters
 - Economic impact:
@@ -9,11 +9,14 @@ Explain it like I’m teaching someone.
 - Societal impact:
 
 ## Supporting Evidence
-- [[Article note 1]]
-- [[Article note 2]]
+- [Beginner](https://easyfuncoding.com/beginnerone/) (using scratch & Minecraft) - Sparks an interest in science and technology
+- 
 
 ## Counterpoints / Risks
 - 
 
 ## Open Questions
 - 
+
+# Links
+- https://easyfuncoding.com/beginnerone/ 
