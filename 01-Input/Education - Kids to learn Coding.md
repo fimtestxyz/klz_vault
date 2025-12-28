@@ -9,7 +9,7 @@ To setup Easy coding material to help kids to learn coding
 - Societal impact:
 
 ## Supporting Evidence
-- [Beginner](https://easyfuncoding.com/beginnerone/) (using scratch & Minecraft) - Sparks an interest in science and technology
+- [Beginner](https://easyfuncoding.com/beginnerone/) (using scratch & Minecraft, Python Turtle) - Sparks an interest in science and technology
 - 
 
 ## Counterpoints / Risks
