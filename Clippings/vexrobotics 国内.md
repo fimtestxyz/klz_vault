@@ -8,30 +8,6 @@ description: "秘塔AI搜索，没有广告，直达结果"
 tags:
   - "clippings"
 ---
-选择讲题范围
-
-根据划定页码范围讲解，最多选择20页
-
-共0页
-
-起始页码：
-
-终止页码：
-
-终止页码不能大于总页数
-
-文本
-
-好看
-
-vexrobotics 国内
-
-38
-
-**VEX Robotics 在中国的布局概览**
-
----
-
 ### 1\. 公司概况
 
 - VEX Robotics 是全球领先的教育与竞技机器人品牌，隶属于 Innovation First International（创首国际）子公司。
