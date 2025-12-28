@@ -1,4 +1,4 @@
-# Concept: {{idea name}}
+# Concept: To build good material for kids to learn coding
 
 ## Core Idea (1–2 sentences)
 Explain it like I’m teaching someone.
@@ -16,8 +16,4 @@ Explain it like I’m teaching someone.
 - 
 
 ## Open Questions
-
 - 
-
-# Links
-- https://easyfuncoding.com/showcase-day-2024/
