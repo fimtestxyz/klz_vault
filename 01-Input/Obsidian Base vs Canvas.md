@@ -22,7 +22,7 @@ tags:
 ---
 ## What is the use of Obsidian base and Canvas ?
 
-Obsidian **Base** is for structured, database‑like views of your notes.Obsidian **Canvas** is for visual, spatial thinking with notes on an infinite board.[effortlessacademic +1](https://effortlessacademic.com/using-obsidian-bases-for-academic-note-taking/)
+Obsidian **Base** is for structured, database‑like views of your notes. Obsidian **Canvas** is for visual, spatial thinking with notes on an infinite board.[effortlessacademic +1](https://effortlessacademic.com/using-obsidian-bases-for-academic-note-taking/).
 
 ## Obsidian Base
 
