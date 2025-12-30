@@ -22,7 +22,7 @@
   "note.template.timestamp-embed": "\n- !{{CLIP}} ",
   "note.template.timestamp-embed-linktext": "{{TIMESTAMP}}|400",
   "note.template.screenshot": "\n- !{{SCREENSHOT}} {{TIMESTAMP}} ",
-  "note.template.screenshot-embed": "{{TITLE}}{{DURATION}}|50",
+  "note.template.screenshot-embed": "{{TITLE}}{{DURATION}}|450",
   "note.template.insert-at": "after-cursor",
   "media-lib.folder-path": "media-lib",
   "cache.cover-image.max-size-mb": 100,
