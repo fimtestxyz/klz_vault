@@ -25,7 +25,7 @@ The key user feedback on GPT-5, as summarized from the provided context and vide
 
 Overall, the feedback suggests a mixed experience where users are underwhelmed by some aspects but find other features impressive, hoping for improvements over time as OpenAI listens to user concerns and makes adjustments.
 ```
-
+https://www.youtube.com/shorts/PLOT2FwtZu0
 https://www.youtube.com/watch?v=hohBB5VM37E
 GPT5  is  the  worst  model  ever.  GPT5 
  is  horrible.  OpenAI  just  pulled  the 
