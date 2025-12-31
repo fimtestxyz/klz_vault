@@ -22,13 +22,19 @@ created:
 	- Generation turns cheap, Trust turns expensive
 - ![5年前我预警了这一天：当智能不值钱，我们还剩下什么？ | 回到Axton - 00:58|450](../../mx-img-wdqn1ycf8xjmpl0ntglfsfcx-pt58_12s.jpg) [00:58](https://www.youtube.com/watch?v=9J_o779xb5k&t=58#t=00:58.12) 
 
+- For USD 320, Axton bought the world top intelligence + ChatGPT pro+Claude Max Plan + Gemini Pro
+- ![5年前我预警了这一天：当智能不值钱，我们还剩下什么？ | 回到Axton - 03:42|450](../../mx-img-wdqn1ycf8xjmpl0ntglfsfcx-pt3m42_50s.jpg) [03:42](https://www.youtube.com/watch?v=9J_o779xb5k&t=222#t=03:42.50) 
+
 ## Notable Quotes
 > 
 
 ## Personal Insight
-- Key is to have the ability to differentiate/identify ==knowledge from information==
+1. Key is to have the ability to differentiate/identify ==knowledge from information==
 	- (Gathering) Data ->Information (linked)
 	- (Creation) Knowledge (organised )-> Wisdom (applied)
+2. Key: ==Ability to DELIVER== (not to generate content)
+
+- ![5年前我预警了这一天：当智能不值钱，我们还剩下什么？ | 回到Axton - 04:02|450](../../mx-img-wdqn1ycf8xjmpl0ntglfsfcx-pt4m2_51s.jpg) [04:02](https://www.youtube.com/watch?v=9J_o779xb5k&t=243#t=04:02.51) 
 
 ## Follow-ups
 - [ ] 
