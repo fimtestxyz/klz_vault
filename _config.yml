@@ -13,7 +13,7 @@ kramdown:
 exclude:
   - 90-template/
   - .obsidian/
-  . .trash/
+  - .trash/
   - .smart-env/
   - Gemfile
   - Gemfile.lock
