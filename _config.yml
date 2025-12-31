@@ -11,7 +11,7 @@ kramdown:
 
 # This tells Jekyll to ignore these specific files and folders
 exclude:
-  - 90-template/
+  - 90-Template/
   - .obsidian/
   - .trash/
   - .smart-env/
