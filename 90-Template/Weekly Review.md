@@ -1,9 +1,9 @@
 ---
-date: {{date}}
+date: {% raw %}{{date}}{% endraw %}
 tags: weekly-review
 ---
 
-# Weekly Review – Week {{date:WW}}
+# Weekly Review – Week {% raw %}{{date:WW}}{% endraw %}
 
 ## ✅ Wins
 - 

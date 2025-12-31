@@ -1,12 +1,12 @@
 ---
-date: {{date}}
+date: {% raw %}{{date}}{% endraw %}
 tags: book-summary
 ---
 
-# {{title}} – Book Summary
+# {% raw %}{{title}}{% endraw %} – Book Summary
 
 **Author:**  
-**Finished on:** {{date}}
+**Finished on:** {% raw %}{{date}}{% endraw %}
 
 ## TL;DR
 > 

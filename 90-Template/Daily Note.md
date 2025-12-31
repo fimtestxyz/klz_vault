@@ -1,9 +1,9 @@
 ---
-date: {{date}}
+date: {% raw %}{{date}}{% endraw %}
 tags: daily
 ---
 
-# {{title}}
+# {% raw %}{{title}}{% endraw %}
 
 ## 🌞 Morning
 
