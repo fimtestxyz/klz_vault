@@ -5,3 +5,17 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
+
+
+# _config.yml
+
+# This tells Jekyll to ignore these specific files and folders
+exclude:
+  - 90-template/
+  - .obsidian/
+  . .trash/
+  - .smart-env/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
