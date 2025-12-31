@@ -1,0 +1,7 @@
+remote_theme: pages-themes/slate@v0.2.0
+exclude: [README.md]
+# This prevents Jekyll from crashing on Obsidian-specific syntax
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
