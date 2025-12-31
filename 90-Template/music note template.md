@@ -12,8 +12,6 @@ Tags:
 
 > [!abstract] 🎵 Purpose
 > This template is designed to **record and reflect on music discovered via YouTube**.  
-> It helps you track **songs, performances, and live sessions** while building a musical “second brain” in Obsidian.
-
 ---
 
 > [!info] 📺 Video Metadata
@@ -87,7 +85,7 @@ Obsidian - Question
 
 Question: [[YouTube Music Record Template]]
 
-Answer: A structured [[Obsidian]] note template used to log, analyze, and reflect on music discovered through [[YouTube]], including metadata, musical elements, and personal impressions.
+Answer: A structured [[Obsidian]] note template used to log, analyze, and reflect on music discovered through [[../03-Output/02-Bookmark/youtube]], including metadata, musical elements, and personal impressions.
 
 END
 
