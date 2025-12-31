@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"ea3c7d563df98d66","x":72,"y":-30,"width":250,"height":60,"type":"text","text":""},
-		{"id":"cb70a65e12187677","x":-280,"y":-240,"width":780,"height":600,"type":"file","file":"01-Input/draw.md"}
-	],
-	"edges":[]
-}

@@ -1,0 +1,29 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("01-Input/video-note")
+    order:
+      - file.name
+      - file.ext
+      - file.backlinks
+      - formula.Untitled
+      - file.folder
+    sort:
+      - property: formula.Untitled
+        direction: ASC
+    columnSize:
+      file.name: 265
+  - type: cards
+    name: image view
+    order:
+      - file.name
+      - file.ext
+      - file.basename
+    cardSize: 370
+    image: file.file
+  - type: table
+    name: View1
