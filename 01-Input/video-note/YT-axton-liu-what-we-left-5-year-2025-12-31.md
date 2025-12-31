@@ -5,9 +5,9 @@ platform:
 source: https://www.youtube.com/watch?v=9J_o779xb5k
 author:
   - axtonliu
-duration: 12:59
+duration: 00:12:59
 status: active
-tags: []
+tags:
 topics: []
 rating:
 created:
