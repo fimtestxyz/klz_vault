@@ -15,7 +15,7 @@ created:
 ---
 
 ## Summary
-- 视频探讨了 AI 时代内容泛滥导致信任危机，强调==生成内容已变廉价==，关键在于==构建可靠的系统以确保内容的验收和交付==，提出人机协作专家的新角色，呼吁通过系统化能力应对未来挑战，实现稳定且高质量的成果交付
+- 频围绕 AI 时代的内容质量与信任、系统重要性及个人应对策略展开。指出 2025 年年度词 “Slop” 代表 AI 生成的低质量内容，当内容生成廉价，信任变得昂贵。回顾 2020 年对 AI 的思考，提出 AI 时代竞争力公式，强调人机协作专家角色。以 Taco Bell 点餐系统为例说明系统重要性，用 MAPS 四维罗盘阐释造系统方法，并通过实例强调系统比工具重要，认为未来被淘汰的是仅凭基础技能工作的人，建议选真实任务、拆分模块并多次实践来打造系统能力。
 
 ## Key Points
 - Post GPT, we are getting too much AI generated information (as cheap as tap water) and we capture it, store it and deliver it and use it decision making. How we know the information is reliable?
