@@ -26,7 +26,9 @@ created:
 > 
 
 ## Personal Insight
-- 
+- Key is to have the ability to differentiate/identify ==knowledge from information==
+	- (Gathering) Data ->Information (linked)
+	- (Creation) Knowledge (organised )-> Wisdom (applied)
 
 ## Follow-ups
 - [ ] 
