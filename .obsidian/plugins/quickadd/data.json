@@ -1,11 +1,11 @@
 {
   "choices": [
     {
-      "id": "c9baa8bf-6a86-4b68-a9cc-ee5df552818c",
-      "name": "Quick Task",
+      "id": "594dadb0-cb96-47fb-aa15-ef6bbe819897",
+      "name": "video-note",
       "type": "Template",
       "command": false,
-      "templatePath": "",
+      "templatePath": "100",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -31,7 +31,7 @@
   ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "90-Template",
+  "templateFolderPath": "100-Template",
   "announceUpdates": "all",
   "version": "2.9.4",
   "globalVariables": {},
