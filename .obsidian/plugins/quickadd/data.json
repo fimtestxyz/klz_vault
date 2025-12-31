@@ -1,18 +1,20 @@
 {
   "choices": [
     {
-      "id": "594dadb0-cb96-47fb-aa15-ef6bbe819897",
+      "id": "d2e93f09-f3fe-486c-808a-200fcaeb1879",
       "name": "video-note",
       "type": "Template",
       "command": false,
-      "templatePath": "100",
+      "templatePath": "100-Template/video-note.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "{{name}}-{{date}}"
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "01-Input/video-note"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
