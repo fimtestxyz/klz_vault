@@ -10,7 +10,7 @@
   "playback.track.default-languages": [],
   "playback.screenshot.format": "image/jpeg",
   "playback.screenshot.quality": 0.8,
-  "playback.screenshot.folder-path": null,
+  "playback.screenshot.folder-path": "/media-screenshot",
   "note.embed.load-strategy": "eager",
   "note.embed.handle-hosted": true,
   "note.embed.handle-direct-url": true,
