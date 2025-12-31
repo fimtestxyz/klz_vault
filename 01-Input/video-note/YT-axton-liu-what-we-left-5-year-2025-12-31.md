@@ -20,6 +20,7 @@ created:
 ## Key Points
 - Information is getting too much
 - 
+- ![5年前我预警了这一天：当智能不值钱，我们还剩下什么？ | 回到Axton - 00:58|450](../../mx-img-wdqn1ycf8xjmpl0ntglfsfcx-pt58_12s.jpg) [00:58](https://www.youtube.com/watch?v=9J_o779xb5k&t=58#t=00:58.12) 
 
 ## Notable Quotes
 > 
