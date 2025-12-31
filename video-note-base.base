@@ -12,6 +12,8 @@ views:
       - file.backlinks
       - formula.Untitled
       - file.folder
+      - source
+      - tags
     sort:
       - property: formula.Untitled
         direction: ASC
@@ -27,3 +29,6 @@ views:
     image: file.file
   - type: table
     name: View1
+  - type: cards
+    name: View
+    imageFit: contain
