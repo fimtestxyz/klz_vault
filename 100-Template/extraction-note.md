@@ -10,22 +10,21 @@ date-created: <% tp.date.now("YYYY-MM-DD") %>
 related-domains: []
 ---
 
-# 🧩 Framework Extraction: <% tR += targetDomain %>
+# 🧩 Knowledge Framework Extraction for domain: <% tR += targetDomain %>
 
-status: 
-  - [ ] Pillars
-  - [ ] Relationships
-  - [ ] Principles
-  - [ ] Boundaries
-  - [ ] Mental Models
-  - [ ] Failure Patterns
-  - [ ] Synthesis
+Area:
+  - Pillars
+  - Relationships
+  - Principles
+  - Boundaries
+  - Mental Models
+  - Failure Patterns
+  - Synthesis
 
 > **Execution Protocol**  
-> 1. **Complete sequentially** (≈20 mins total)  
+> 1. **Complete sequentially** 
 > 2. Run LLM prompts via your AI plugin (Text Generator/Smart Connections)  
-> 3. ✓ Check status boxes as completed  
-> 4. *Pro tip: Paste all prompts at once to LLM with "Answer in this exact order"*
+> 3. ✓ Check status areas above as completed  
 
 ## 🔷 1. Core Pillars
 ```prompt
