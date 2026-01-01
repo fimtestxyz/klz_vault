@@ -1,8 +1,8 @@
 ---
-tags: [framework-extraction]
+tags:
+  - framework-extraction
 domain: "{{TARGET_DOMAIN}}"
 date-created: <% tp.date.now("YYYY-MM-DD") %>
-
 related-domains: []
 ---
 
