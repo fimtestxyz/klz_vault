@@ -1,17 +1,4 @@
-<%*
-const target_topic = await tp.system.prompt("Enter target topic to learn");
-
-if (!target_topic) {
-  throw new Error("No topic provided");
-}
-
-const safe_topic = target_topic
-  .replace(/[^a-zA-Z0-9 ]/g, "")
-  .replace(/\s+/g, "_");
-
-await tp.file.rename(`learn_${safe_topic}.md`);
-
-tR += `# 🌳 ${target_topic} — Rapid Landscape Map
+# 🌳 CMOS & Discrete Logic — Rapid Landscape Map
 
 ## 1️⃣ AI MASTER PROMPT (Landscape + Tree View)
 
@@ -19,7 +6,7 @@ tR += `# 🌳 ${target_topic} — Rapid Landscape Map
 
 You are an expert teacher and systems thinker.
 
-Deconstruct **${target_topic}** so a fast learner can master it efficiently.
+Deconstruct **CMOS & Discrete Logic** so a fast learner can master it efficiently.
 
 ### Output requirements:
 1. Present the topic as a **tree structure**:
@@ -36,7 +23,7 @@ Start with a one-paragraph big-picture overview, then show the tree.
 
 ## 2️⃣ TOPIC TREE (Landscape Map)
 
-- ${target_topic}
+- CMOS & Discrete Logic
   - Core Foundations
   - Key Components
   - Processes / Flows
@@ -50,15 +37,15 @@ Start with a one-paragraph big-picture overview, then show the tree.
 ## 3️⃣ KEY QUESTIONS & ANSWERS
 
 ### Core Understanding
-- What problem does ${target_topic} solve?
+- What problem does CMOS & Discrete Logic solve?
 - Why does it matter?
 
 ### How It Works
-- How does ${target_topic} work at a high level?
+- How does CMOS & Discrete Logic work at a high level?
 - What are the critical mechanisms?
 
 ### Comparison
-- What is ${target_topic} often confused with?
+- What is CMOS & Discrete Logic often confused with?
 - When should it NOT be used?
 
 ---
@@ -67,7 +54,7 @@ Start with a one-paragraph big-picture overview, then show the tree.
 
 ### Typical Scenarios
 - Context:
-- Why ${target_topic} fits:
+- Why CMOS & Discrete Logic fits:
 
 ### Failure Scenarios
 - What goes wrong:
@@ -77,23 +64,23 @@ Start with a one-paragraph big-picture overview, then show the tree.
 
 ## 5️⃣ BOUNDARIES & CONSTRAINTS
 
-**What ${target_topic} is:**
+**What CMOS & Discrete Logic is:**
 - …
 
-**What ${target_topic} is NOT:**
+**What CMOS & Discrete Logic is NOT:**
 - …
 
 ---
 
 ## 6️⃣ MENTAL MODELS
 
-> Think of ${target_topic} as …
+> Think of CMOS & Discrete Logic as …
 
 ---
 
 ## 7️⃣ TAGS
 
-#topic/${safe_topic}
+#topic/CMOS_Discrete_Logic
 #learning-map
 #mental-model
 
@@ -110,6 +97,4 @@ Start with a one-paragraph big-picture overview, then show the tree.
 
 ## 9️⃣ ONE-SENTENCE MASTERY CHECK
 
-> I understand ${target_topic} if I can explain it without notes.
-`;
--%>
+> I understand CMOS & Discrete Logic if I can explain it without notes.
