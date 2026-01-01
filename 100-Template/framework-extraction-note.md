@@ -2,6 +2,12 @@
 tags: [framework-extraction]
 domain: "{{TARGET_DOMAIN}}"
 date-created: <% tp.date.now("YYYY-MM-DD") %>
+
+related-domains: []
+---
+
+# 🧩 Framework Extraction: {{TARGET_DOMAIN}}
+
 status: 
   - [ ] Pillars
   - [ ] Relationships
@@ -10,10 +16,6 @@ status:
   - [ ] Mental Models
   - [ ] Failure Patterns
   - [ ] Synthesis
-related-domains: []
----
-
-# 🧩 Framework Extraction: {{TARGET_DOMAIN}}
 
 > **Execution Protocol**  
 > 1. **Complete sequentially** (≈20 mins total)  
