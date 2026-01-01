@@ -1,17 +1,4 @@
-<%*
-const target_topic = await tp.system.prompt("Enter target topic to learn");
-
-if (!target_topic) {
-  throw new Error("No topic provided");
-}
-
-const safe_topic = target_topic
-  .replace(/[^a-zA-Z0-9 ]/g, "")
-  .replace(/\s+/g, "_");
-
-await tp.file.rename(`learn_${safe_topic}.md`);
-
-tR += `# 🌳 ${target_topic} — Rapid Landscape Map
+# 🌳 snowflake data lineage — Rapid Landscape Map
 
 ## 1️⃣ AI MASTER PROMPT (Landscape + Tree View)
 
@@ -19,7 +6,7 @@ tR += `# 🌳 ${target_topic} — Rapid Landscape Map
 
 You are an expert teacher and systems thinker. Strictly follow the structure below !
 
-Deconstruct **${target_topic}** so a fast learner can master it efficiently.
+Deconstruct **snowflake data lineage** so a fast learner can master it efficiently.
 
 ### Output requirements:
 1. Present the topic as a **tree structure**:
@@ -36,7 +23,7 @@ Start with a one-paragraph big-picture overview, then show the tree.
 
 ## 2️⃣ TOPIC TREE (Landscape Map)
 
-- ${target_topic}
+- snowflake data lineage
   - Core Foundations
   - Key Components
   - Processes / Flows
@@ -50,15 +37,15 @@ Start with a one-paragraph big-picture overview, then show the tree.
 ## 3️⃣ KEY QUESTIONS & ANSWERS
 
 ### Core Understanding
-- What problem does ${target_topic} solve?
+- What problem does snowflake data lineage solve?
 - Why does it matter?
 
 ### How It Works
-- How does ${target_topic} work at a high level?
+- How does snowflake data lineage work at a high level?
 - What are the critical mechanisms?
 
 ### Comparison
-- What is ${target_topic} often confused with?
+- What is snowflake data lineage often confused with?
 - When should it NOT be used?
 
 ---
@@ -67,7 +54,7 @@ Start with a one-paragraph big-picture overview, then show the tree.
 
 ### Typical Scenarios
 - Context:
-- Why ${target_topic} fits:
+- Why snowflake data lineage fits:
 
 ### Failure Scenarios
 - What goes wrong:
@@ -77,23 +64,23 @@ Start with a one-paragraph big-picture overview, then show the tree.
 
 ## 5️⃣ BOUNDARIES & CONSTRAINTS
 
-**What ${target_topic} is:**
+**What snowflake data lineage is:**
 - …
 
-**What ${target_topic} is NOT:**
+**What snowflake data lineage is NOT:**
 - …
 
 ---
 
 ## 6️⃣ MENTAL MODELS
 
-> Think of ${target_topic} as …
+> Think of snowflake data lineage as …
 
 ---
 
 ## 7️⃣ TAGS
 
-#topic/${safe_topic}
+#topic/snowflake_data_lineage
 #learning-map
 #mental-model
 
@@ -112,12 +99,10 @@ Start with a one-paragraph big-picture overview, then show the tree.
 
 | # | Question | Answer | Use Case / Example | Keywords |
 |---|----------|--------|------------------|----------|
-| 1 | What problem does ${target_topic} solve? | [Concise explanation of the problem] | [Scenario where solving this problem is critical] | problem, challenge, need |
+| 1 | What problem does snowflake data lineage solve? | [Concise explanation of the problem] | [Scenario where solving this problem is critical] | problem, challenge, need |
 | 2 | Why does it matter? | [Why it is important or impactful] | [Real-world relevance or business impact] | importance, impact, value |
-| 3 | How does ${target_topic} work at a high level? | [High-level description of mechanism or workflow] | [Example of process in action] | mechanism, workflow, overview |
+| 3 | How does snowflake data lineage work at a high level? | [High-level description of mechanism or workflow] | [Example of process in action] | mechanism, workflow, overview |
 | 4 | What are the critical mechanisms? | [Key components or steps that make it function] | [When optimizing or debugging] | mechanism, component, process |
-| 5 | What is ${target_topic} often confused with? | [Related concepts it is different from] | [Situations where confusion arises] | confusion, comparison, differentiation |
+| 5 | What is snowflake data lineage often confused with? | [Related concepts it is different from] | [Situations where confusion arises] | confusion, comparison, differentiation |
 | 6 | When should it NOT be used? | [Limitations or cases where it fails] | [Avoiding misuse in practice] | limitation, constraint, caution |
 
-`;
--%>
