@@ -2,12 +2,12 @@
 tags:
   - framework-extraction
 domain: "{{TARGET_DOMAIN}}"
-date-created: <% tp.date.now("YYYY-MM-DD") %>
+date-created: 2026-01-01
 related-domains: []
 ---
 
 ```
-<% tp.system.prompt("Target_Domain") %>
+weng koon
 ```
 
 # 🧩 Framework Extraction: {{TARGET_DOMAIN}}

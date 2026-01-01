@@ -1,16 +1,16 @@
+<%*
+// Prompt user for target domain and store it
+const targetDomain = await tp.system.prompt("Target Domain");
+-%>
 ---
 tags:
   - framework-extraction
-domain: "{{TARGET_DOMAIN}}"
+domain: "<%= targetDomain %>"
 date-created: <% tp.date.now("YYYY-MM-DD") %>
 related-domains: []
 ---
 
-```
-<% tp.system.prompt("Target_Domain") %>
-```
-
-# 🧩 Framework Extraction: {{TARGET_DOMAIN}}
+# 🧩 Framework Extraction: <%= targetDomain %>
 
 status: 
   - [ ] Pillars
@@ -29,4 +29,4 @@ status:
 
 ## 🔷 1. Core Pillars
 ```prompt
-Identify exactly 3-5 foundational pillars that form the irreducible framework of `{{TARGET_DOMAIN}}`. For each pillar: (a) Name it with a noun phrase, (b) Define its scope in ≤10 words, (c) State its primary function in the system.
+Identify exactly 3-5 foundational pillars that form the irreducible framework of `<%= targetDomain %>`. For each pillar: (a) Name it with a noun phrase, (b) Define its scope in ≤10 words, (c) State its primary function in the system.
