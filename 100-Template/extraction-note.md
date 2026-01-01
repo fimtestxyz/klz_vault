@@ -1,6 +1,15 @@
 <%*
-// Prompt the user and await the input
+// 1. Prompt the user for the domain
 const targetDomain = await tp.system.prompt("Target Domain");
+
+// 2. Create a "slug" (lowercase, replaces spaces/special chars with underscores)
+const targetDomainSlug = targetDomain
+  .toLowerCase()
+  .replace(/[^a-z0-9]+/g, '_')
+  .replace(/^_+|_+$/g, '');
+
+// 3. Rename the file
+await tp.file.rename(`knowledge_extraction_${targetDomainSlug}`);
 -%>
 ---
 tags:
