@@ -17,7 +17,7 @@ created:
 ---
 
 ## Summary
-- 
+
 
 ## Key Points
 - 
