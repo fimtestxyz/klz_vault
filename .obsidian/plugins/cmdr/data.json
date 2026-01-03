@@ -10,7 +10,14 @@
   "statusBar": [],
   "pageHeader": [],
   "macros": [],
-  "explorer": [],
+  "explorer": [
+    {
+      "id": "local-backup:run-local-backup",
+      "icon": "lucide-arrow-down",
+      "name": "Local Backup: Run local backup",
+      "mode": "any"
+    }
+  ],
   "hide": {
     "statusbar": [],
     "leftRibbon": []
