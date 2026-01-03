@@ -35,7 +35,10 @@
       "DisplaySystemShortcuts": false
     }
   },
-  "featuredCommandIDs": [],
+  "featuredCommandIDs": [
+    "editor:save-file",
+    "workspace:edit-file-title"
+  ],
   "commandGroups": [],
   "lastOpenedGroupId": "all",
   "pinKeyboardPanel": false,
