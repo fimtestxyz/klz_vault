@@ -19,6 +19,7 @@ This video recommends about 8 Obsidian plugins which are ease of use and very pr
 - Calendar
 - Float TOC
 - Keyboard Analyzer
+- File Tree Alternative (file count displayed for each folder
 
 ## Key Points
 - 
